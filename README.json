@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31344
+            "stars": 31348
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23054
+            "stars": 23052
           }
         },
         {
@@ -2412,7 +2412,7 @@
             "last_commit": "2026-02-27T00:49:47Z",
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13424
+            "stars": 13425
           }
         },
         {
@@ -2454,7 +2454,7 @@
             "last_commit": "2026-08-09T14:23:10Z",
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3952
+            "stars": 3951
           }
         },
         {
@@ -2468,7 +2468,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2701
+            "stars": 2703
           }
         },
         {
@@ -2493,7 +2493,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T00:36:32Z",
+            "last_commit": "2026-08-15T00:22:33Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1236
@@ -2634,7 +2634,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19710
+            "stars": 19709
           }
         },
         {
@@ -2834,7 +2834,7 @@
             "last_commit": "2020-07-29T20:45:39Z",
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4757
+            "stars": 4756
           }
         },
         {
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:19:24.024Z",
+    "last_updated": "2026-08-15T08:44:24.345Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
     "enhanced_repository": "enhansome/enhansome-peer-to-peer",
