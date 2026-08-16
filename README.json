@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31348
+            "stars": 31349
           }
         },
         {
@@ -2384,7 +2384,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23052
+            "stars": 23054
           }
         },
         {
@@ -2398,7 +2398,7 @@
             "last_commit": "2026-08-12T03:32:06Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14294
+            "stars": 14297
           }
         },
         {
@@ -2454,7 +2454,7 @@
             "last_commit": "2026-08-09T14:23:10Z",
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3951
+            "stars": 3950
           }
         },
         {
@@ -2468,7 +2468,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2703
+            "stars": 2704
           }
         },
         {
@@ -2634,7 +2634,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19709
+            "stars": 19710
           }
         },
         {
@@ -2648,7 +2648,7 @@
             "last_commit": "2026-08-11T21:55:07Z",
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10105
+            "stars": 10107
           }
         },
         {
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:44:24.345Z",
+    "last_updated": "2026-08-16T08:45:29.822Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
     "enhanced_repository": "enhansome/enhansome-peer-to-peer",
