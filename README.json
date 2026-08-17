@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31349
+            "stars": 31350
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-06-26T14:45:57Z",
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7806
+            "stars": 7805
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2022-06-19T23:29:59Z",
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6278
+            "stars": 6277
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-07T18:03:27Z",
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2013
+            "stars": 2014
           }
         },
         {
@@ -2398,7 +2398,7 @@
             "last_commit": "2026-08-12T03:32:06Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14297
+            "stars": 14300
           }
         },
         {
@@ -2412,7 +2412,7 @@
             "last_commit": "2026-02-27T00:49:47Z",
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13425
+            "stars": 13426
           }
         },
         {
@@ -2634,7 +2634,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19710
+            "stars": 19708
           }
         },
         {
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:45:29.822Z",
+    "last_updated": "2026-08-17T08:58:56.363Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
     "enhanced_repository": "enhansome/enhansome-peer-to-peer",
