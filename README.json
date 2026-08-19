@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31357
+            "stars": 31359
           }
         },
         {
@@ -2466,7 +2466,7 @@
             "last_commit": "2026-08-18T02:02:10Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14309
+            "stars": 14310
           }
         },
         {
@@ -2481,7 +2481,7 @@
             "last_commit": "2026-02-27T00:49:47Z",
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13426
+            "stars": 13428
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2708
+            "stars": 2709
           }
         },
         {
@@ -3074,8 +3074,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:52:49.185Z",
+    "last_updated": "2026-08-19T12:44:58.436Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
+    "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
     "enhanced_repository": "enhansome/enhansome-peer-to-peer",
     "enhanced_repository_description": null,
