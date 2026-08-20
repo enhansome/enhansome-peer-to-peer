@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31359
+            "stars": 31361
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-06-19T23:29:59Z",
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6277
+            "stars": 6276
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 53643073,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T05:55:35Z",
+            "last_commit": "2026-08-19T22:16:04Z",
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
             "stars": 1367
@@ -2451,7 +2451,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23054
+            "stars": 23053
           }
         },
         {
@@ -2466,7 +2466,7 @@
             "last_commit": "2026-08-18T02:02:10Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14310
+            "stars": 14314
           }
         },
         {
@@ -2712,7 +2712,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19708
+            "stars": 19707
           }
         },
         {
@@ -2727,7 +2727,7 @@
             "last_commit": "2026-08-11T21:55:07Z",
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10108
+            "stars": 10109
           }
         },
         {
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:58.436Z",
+    "last_updated": "2026-08-20T08:54:31.184Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
