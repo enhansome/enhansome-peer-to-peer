@@ -4,7 +4,7 @@
 
 ## Modules
 
-* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,361 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-08: streaming torrent client for node and the browser
+* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,362 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-08: streaming torrent client for node and the browser
 * [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,804 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26: Simple WebRTC video/voice and data channels
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,276 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19: streaming torrent client for NodeJS
 * [peer](https://github.com/peers/peerjs-server) ⭐ 4,695 | 🐛 44 | 🌐 TypeScript | 📅 2026-02-27: peerjs server
@@ -20,7 +20,7 @@
 * [orbit](https://github.com/haadcode/orbit) ⚠️ Archived: Distributed peer-to-peer chat application on IPFS
 * [serverless-webrtc](https://github.com/cjb/serverless-webrtc) ⭐ 1,565 | 🐛 17 | 🌐 JavaScript | 📅 2021-09-03: serverless WebRTC
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,415 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29: Mount a torrent or magnet link as a filesystem
-* [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,367 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-19: WebTorrent, the streaming torrent client. For the command line.
+* [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,367 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-19: WebTorrent, the streaming torrent client. For the command line.
 * [scuttlebutt](https://github.com/dominictarr/scuttlebutt) ⭐ 1,317 | 🐛 19 | 🌐 JavaScript | 📅 2017-04-12: real-time replication
 * [bittorrent-dht](https://github.com/feross/bittorrent-dht) ⭐ 1,279 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-06: BitTorrent DHT implementation
 * [secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt) ⭐ 1,168 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-13: secure database with replication
@@ -33,7 +33,7 @@
 * [rtc-everywhere](https://github.com/contra/rtc-everywhere) ⭐ 655 | 🐛 6 | 🌐 JavaScript | 📅 2018-04-09: cross-everything WebRTC mega-project
 * [torrent](https://github.com/maxogden/torrent) ⭐ 630 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-04: download torrents with NodeJS from the CLI
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) ⭐ 532 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-14: multicast-dns in JS
-* [hyperlog](https://github.com/mafintosh/hyperlog) ⭐ 469 | 🐛 11 | 🌐 JavaScript | 📅 2017-01-24: Merkle DAG that replicates based on scuttlebutt logs and causal linking
+* [hyperlog](https://github.com/mafintosh/hyperlog) ⭐ 468 | 🐛 11 | 🌐 JavaScript | 📅 2017-01-24: Merkle DAG that replicates based on scuttlebutt logs and causal linking
 * [parse-torrent](https://github.com/feross/parse-torrent) ⭐ 463 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-06: parse a torrent identifier
 * [webcat](https://github.com/mafintosh/webcat) ⭐ 452 | 🐛 10 | 🌐 JavaScript | 📅 2020-07-28: P2P pipe using WebRTC, Github keys for auth, and signalhub for discovery
 * [webcoin](https://github.com/mappum/webcoin) ⭐ 409 | 🐛 37 | 🌐 JavaScript | 📅 2022-02-11: SPV Bitcoin client for Node.js and the browser
@@ -185,15 +185,15 @@
 
 ## Libraries
 
-* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01: distributed file system
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,314 | 🐛 317 | 🌐 C | 📅 2026-08-18: next evolution of the rfc5766-turn-server project
+* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,054 | 🐛 8 | 📅 2025-05-01: distributed file system
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,321 | 🐛 318 | 🌐 C | 📅 2026-08-18: next evolution of the rfc5766-turn-server project
 * [peerjs](https://github.com/peers/peerjs) ⭐ 13,428 | 🐛 201 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
-* [dat](https://github.com/datproject/dat) ⭐ 8,228 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07: Sync data across the distributed web
+* [dat](https://github.com/datproject/dat) ⭐ 8,227 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07: Sync data across the distributed web
 * [SimpleWebRTC](https://github.com/andyet/SimpleWebRTC) ⭐ 4,686 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14: browser JS library
-* [btfs](https://github.com/johang/btfs) ⭐ 3,950 | 🐛 19 | 🌐 C++ | 📅 2026-08-09: bittorrent filesystem based on FUSE (C++)
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,709 | 🐛 147 | 🌐 C++ | 📅 2026-08-07: WebRTC DataChannels standalone implementation (C++)
+* [btfs](https://github.com/johang/btfs) ⭐ 3,948 | 🐛 19 | 🌐 C++ | 📅 2026-08-09: bittorrent filesystem based on FUSE (C++)
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,710 | 🐛 147 | 🌐 C++ | 📅 2026-08-07: WebRTC DataChannels standalone implementation (C++)
 * [signalmaster](https://github.com/andyet/signalmaster) ⭐ 1,301 | 🐛 55 | 🌐 JavaScript | 📅 2020-11-16: signaling server for [SimpleWebRTC](https://github.com/HenrikJoreteg/SimpleWebRTC) ⭐ 4,686 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14
-* [ipfs specs](https://github.com/ipfs/specs) ⭐ 1,237 | 🐛 89 | 🌐 HTML | 📅 2026-08-18: specs for IPFS
+* [ipfs specs](https://github.com/ipfs/specs) ⭐ 1,237 | 🐛 88 | 🌐 HTML | 📅 2026-08-21: specs for IPFS
 * [planktos](https://github.com/xuset/planktos) ⭐ 536 | 🐛 35 | 🌐 JavaScript | 📅 2020-05-10: Serving websites over bittorrent
 * [rfc5766-turn-server](https://github.com/coturn/rfc5766-turn-server/) ⭐ 529 | 🐛 0 | 🌐 C | 📅 2015-10-19
 * [ipget](https://github.com/noffle/ipget) ⚠️ Archived: wget for IPFS
@@ -207,7 +207,7 @@
 ## Apps
 
 * [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 19,707 | 🐛 287 | 🌐 JavaScript | 📅 2025-02-10: A HTML5 clone of Apple's AirDrop
-* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,109 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-11: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,111 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-11: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 * [beaker](https://github.com/pfraze/beaker) ⚠️ Archived: Decentralization tech in a browser built with electron.
 * [patchwork](https://github.com/ssbc/patchwork) ⚠️ Archived: p2p secure messaging
 * [friends](https://github.com/moose-team/friends) ⚠️ Archived: P2P chat
@@ -292,4 +292,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
