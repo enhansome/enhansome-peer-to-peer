@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31362
+            "stars": 31363
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1936
+            "stars": 1937
           }
         },
         {
@@ -2451,7 +2451,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23054
+            "stars": 23055
           }
         },
         {
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 39242894,
             "language": "C",
-            "last_commit": "2026-08-18T02:02:10Z",
+            "last_commit": "2026-08-22T01:43:35Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14321
+            "stars": 14322
           }
         },
         {
@@ -2481,7 +2481,7 @@
             "last_commit": "2026-02-27T00:49:47Z",
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13428
+            "stars": 13429
           }
         },
         {
@@ -2526,7 +2526,7 @@
             "last_commit": "2026-08-09T14:23:10Z",
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3948
+            "stars": 3949
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2710
+            "stars": 2712
           }
         },
         {
@@ -2616,7 +2616,7 @@
             "last_commit": "2026-08-04T12:04:52Z",
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -2712,7 +2712,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19707
+            "stars": 19706
           }
         },
         {
@@ -2727,7 +2727,7 @@
             "last_commit": "2026-08-11T21:55:07Z",
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10111
+            "stars": 10113
           }
         },
         {
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:56:13.772Z",
+    "last_updated": "2026-08-22T08:46:03.004Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
