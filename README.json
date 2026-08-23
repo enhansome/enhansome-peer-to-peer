@@ -12,10 +12,10 @@
             "archived": false,
             "id": 13584262,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T20:27:23Z",
+            "last_commit": "2026-08-22T16:56:04Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31363
+            "stars": 31365
           }
         },
         {
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 39242894,
             "language": "C",
-            "last_commit": "2026-08-22T01:43:35Z",
+            "last_commit": "2026-08-23T02:37:03Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14322
+            "stars": 14325
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2712
+            "stars": 2713
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 32023078,
             "language": "HTML",
-            "last_commit": "2026-08-21T01:53:30Z",
+            "last_commit": "2026-08-22T12:41:19Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1237
@@ -2757,7 +2757,7 @@
             "last_commit": "2021-05-12T06:57:58Z",
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3568
+            "stars": 3569
           }
         },
         {
@@ -2892,7 +2892,7 @@
             "last_commit": "2021-06-22T02:22:34Z",
             "owner": "DiegoRBaquero",
             "repo": "PeerFast",
-            "stars": 105
+            "stars": 104
           }
         }
       ],
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:46:03.004Z",
+    "last_updated": "2026-08-23T08:46:56.864Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
