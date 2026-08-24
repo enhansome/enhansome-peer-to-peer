@@ -45,7 +45,7 @@
             "last_commit": "2022-06-19T23:29:59Z",
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6276
+            "stars": 6274
           }
         },
         {
@@ -2466,7 +2466,7 @@
             "last_commit": "2026-08-24T01:20:48Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14332
+            "stars": 14335
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 32023078,
             "language": "HTML",
-            "last_commit": "2026-08-24T00:17:08Z",
+            "last_commit": "2026-08-24T13:48:28Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1237
@@ -3032,6 +3032,21 @@
             "repo": "p2pweb",
             "stars": 23
           }
+        },
+        {
+          "node_type": "item",
+          "title": "p2p handbook",
+          "description": "introductory handbook on p2p tech & javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54677533,
+            "language": null,
+            "last_commit": "2020-05-25T19:04:31Z",
+            "owner": "hackergrrl",
+            "repo": "p2p-handbook",
+            "stars": 130
+          }
         }
       ],
       "title": "Resources"
@@ -3074,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:02:48.718Z",
+    "last_updated": "2026-08-24T14:03:15.956Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
