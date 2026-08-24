@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T16:56:04Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31365
+            "stars": 31368
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2020-11-01T15:53:26Z",
             "owner": "butterproject",
             "repo": "butter-desktop",
-            "stars": 4257
+            "stars": 4256
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-07T18:03:27Z",
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2014
+            "stars": 2015
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1937
+            "stars": 1936
           }
         },
         {
@@ -785,21 +785,6 @@
         },
         {
           "node_type": "item",
-          "title": "node-torrent",
-          "description": "torrent reader, write, and hash checker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 2192549,
-            "language": "JavaScript",
-            "last_commit": "2025-11-22T07:57:51Z",
-            "owner": "fent",
-            "repo": "node-torrent",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
           "title": "peerweb.js",
           "description": "A client side library for fetching and rendering a static website from a torrent",
           "children": [],
@@ -810,6 +795,21 @@
             "last_commit": "2018-02-05T16:55:46Z",
             "owner": "retrohacker",
             "repo": "peerweb.js",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-torrent",
+          "description": "torrent reader, write, and hash checker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2192549,
+            "language": "JavaScript",
+            "last_commit": "2025-11-22T07:57:51Z",
+            "owner": "fent",
+            "repo": "node-torrent",
             "stars": 196
           }
         },
@@ -2463,10 +2463,10 @@
             "archived": false,
             "id": 39242894,
             "language": "C",
-            "last_commit": "2026-08-23T02:37:03Z",
+            "last_commit": "2026-08-24T01:20:48Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14325
+            "stars": 14332
           }
         },
         {
@@ -2526,7 +2526,7 @@
             "last_commit": "2026-08-09T14:23:10Z",
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3949
+            "stars": 3950
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2713
+            "stars": 2714
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 32023078,
             "language": "HTML",
-            "last_commit": "2026-08-22T12:41:19Z",
+            "last_commit": "2026-08-24T00:17:08Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1237
@@ -2586,7 +2586,7 @@
             "last_commit": "2020-05-10T17:07:43Z",
             "owner": "xuset",
             "repo": "planktos",
-            "stars": 536
+            "stars": 537
           }
         },
         {
@@ -2712,7 +2712,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19706
+            "stars": 19705
           }
         },
         {
@@ -3074,7 +3074,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:46:56.864Z",
+    "last_updated": "2026-08-24T09:02:48.718Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
