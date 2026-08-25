@@ -2466,7 +2466,7 @@
             "last_commit": "2026-08-24T23:23:37Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14340
+            "stars": 14341
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2714
+            "stars": 2715
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 32023078,
             "language": "HTML",
-            "last_commit": "2026-08-25T00:09:53Z",
+            "last_commit": "2026-08-25T08:56:46Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1237
@@ -2928,7 +2928,7 @@
             "last_commit": "2023-12-27T11:07:09Z",
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3454
+            "stars": 3453
           }
         },
         {
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:17.626Z",
+    "last_updated": "2026-08-25T08:57:48.347Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
