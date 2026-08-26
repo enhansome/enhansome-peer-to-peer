@@ -12,10 +12,10 @@
             "archived": false,
             "id": 13584262,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:56:04Z",
+            "last_commit": "2026-08-25T20:45:41Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31368
+            "stars": 31369
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-26T14:45:57Z",
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7804
+            "stars": 7803
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-03-26T15:00:54Z",
             "owner": "node-webrtc",
             "repo": "node-webrtc",
-            "stars": 2806
+            "stars": 2805
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1936
+            "stars": 1937
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2018-11-14T19:41:36Z",
             "owner": "gitsummore",
             "repo": "nile.js",
-            "stars": 1756
+            "stars": 1755
           }
         },
         {
@@ -1730,6 +1730,21 @@
         },
         {
           "node_type": "item",
+          "title": "torrent-piece",
+          "description": "torrent piece abstraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41037379,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T02:38:50Z",
+            "owner": "webtorrent",
+            "repo": "torrent-piece",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
           "title": "normcore",
           "description": "No-config distributed streams using hypercore",
           "children": [],
@@ -1741,21 +1756,6 @@
             "owner": "yoshuawuyts",
             "repo": "normcore",
             "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "torrent-piece",
-          "description": "torrent piece abstraction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 41037379,
-            "language": "JavaScript",
-            "last_commit": "2026-07-15T02:38:50Z",
-            "owner": "webtorrent",
-            "repo": "torrent-piece",
-            "stars": 27
           }
         },
         {
@@ -2466,7 +2466,7 @@
             "last_commit": "2026-08-24T23:23:37Z",
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14341
+            "stars": 14347
           }
         },
         {
@@ -2481,7 +2481,7 @@
             "last_commit": "2026-02-27T00:49:47Z",
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13430
+            "stars": 13431
           }
         },
         {
@@ -2523,7 +2523,7 @@
             "archived": false,
             "id": 39718767,
             "language": "C++",
-            "last_commit": "2026-08-09T14:23:10Z",
+            "last_commit": "2026-08-25T18:12:06Z",
             "owner": "johang",
             "repo": "btfs",
             "stars": 3950
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2715
+            "stars": 2716
           }
         },
         {
@@ -2568,7 +2568,7 @@
             "archived": false,
             "id": 32023078,
             "language": "HTML",
-            "last_commit": "2026-08-25T08:56:46Z",
+            "last_commit": "2026-08-25T15:22:08Z",
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1237
@@ -2712,7 +2712,7 @@
             "last_commit": "2025-02-10T10:35:43Z",
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19705
+            "stars": 19706
           }
         },
         {
@@ -2913,7 +2913,7 @@
             "last_commit": "2020-07-29T20:45:39Z",
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4757
+            "stars": 4756
           }
         },
         {
@@ -3089,7 +3089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:57:48.347Z",
+    "last_updated": "2026-08-26T09:00:35.211Z",
     "original_repository": "kgryte/awesome-peer-to-peer",
     "original_repository_id": 42802743,
     "original_repository_sha": "712e8b27dbcb258f3438028ea9ee171dc5391d24",
