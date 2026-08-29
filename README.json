@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T21:03:14Z",
-            "open_issues": 83,
+            "last_commit": "2026-08-29T12:28:14Z",
+            "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31372,
+            "stars": 31371,
             "topics": [
               "bittorrent",
               "browser",
@@ -199,7 +199,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-15T19:18:20Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
             "stars": 2094,
@@ -1088,7 +1088,7 @@
             "open_issues": 7,
             "owner": "ipfs-shipyard",
             "repo": "ipscend",
-            "stars": 263,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3739,7 +3739,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13431,
+            "stars": 13432,
             "topics": [
               "browser",
               "dataconnection",
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:06.401Z",
+    "last_updated": "2026-08-29T13:49:20.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
