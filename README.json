@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31371,
+            "stars": 31372,
             "topics": [
               "bittorrent",
               "browser",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2094,
+            "stars": 2093,
             "topics": [
               "javascript",
               "nodejs",
@@ -3683,7 +3683,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23058,
+            "stars": 23059,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3711,10 +3711,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:26:36Z",
-            "open_issues": 309,
+            "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14358,
+            "stars": 14360,
             "topics": [
               "networking",
               "server",
@@ -3768,7 +3768,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8228,
+            "stars": 8229,
             "topics": [
               "command-line",
               "dat",
@@ -3848,7 +3848,7 @@
             "open_issues": 148,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2722,
+            "stars": 2723,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3908,7 +3908,7 @@
             "open_issues": 89,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "ipfs",
               "p2p",
@@ -4135,7 +4135,7 @@
             "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19703,
+            "stars": 19704,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:49:20.888Z",
+    "last_updated": "2026-08-30T13:47:07.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
