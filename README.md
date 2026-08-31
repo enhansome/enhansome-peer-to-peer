@@ -4,7 +4,7 @@
 
 ## Modules
 
-* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,372 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-29: streaming torrent client for node and the browser
+* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,375 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-31: streaming torrent client for node and the browser
 * [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,803 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26: Simple WebRTC video/voice and data channels
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,273 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19: streaming torrent client for NodeJS
 * [peer](https://github.com/peers/peerjs-server) ⭐ 4,695 | 🐛 44 | 🌐 TypeScript | 📅 2026-02-27: peerjs server
@@ -186,12 +186,12 @@
 ## Libraries
 
 * [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,059 | 🐛 8 | 📅 2025-05-01: distributed file system
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,360 | 🐛 310 | 🌐 C | 📅 2026-08-29: next evolution of the rfc5766-turn-server project
-* [peerjs](https://github.com/peers/peerjs) ⭐ 13,432 | 🐛 201 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,363 | 🐛 312 | 🌐 C | 📅 2026-08-31: next evolution of the rfc5766-turn-server project
+* [peerjs](https://github.com/peers/peerjs) ⭐ 13,431 | 🐛 201 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
 * [dat](https://github.com/datproject/dat) ⭐ 8,229 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07: Sync data across the distributed web
 * [SimpleWebRTC](https://github.com/andyet/SimpleWebRTC) ⭐ 4,686 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14: browser JS library
 * [btfs](https://github.com/johang/btfs) ⭐ 3,949 | 🐛 19 | 🌐 C++ | 📅 2026-08-25: bittorrent filesystem based on FUSE (C++)
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,723 | 🐛 148 | 🌐 C++ | 📅 2026-08-07: WebRTC DataChannels standalone implementation (C++)
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,724 | 🐛 148 | 🌐 C++ | 📅 2026-08-07: WebRTC DataChannels standalone implementation (C++)
 * [signalmaster](https://github.com/andyet/signalmaster) ⭐ 1,301 | 🐛 55 | 🌐 JavaScript | 📅 2020-11-16: signaling server for [SimpleWebRTC](https://github.com/HenrikJoreteg/SimpleWebRTC) ⭐ 4,686 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14
 * [ipfs specs](https://github.com/ipfs/specs) ⭐ 1,238 | 🐛 89 | 🌐 HTML | 📅 2026-08-27: specs for IPFS
 * [planktos](https://github.com/xuset/planktos) ⭐ 537 | 🐛 35 | 🌐 JavaScript | 📅 2020-05-10: Serving websites over bittorrent
@@ -206,8 +206,8 @@
 
 ## Apps
 
-* [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 19,704 | 🐛 286 | 🌐 JavaScript | 📅 2025-02-10: A HTML5 clone of Apple's AirDrop
-* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,113 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-11: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+* [snapdrop](https://github.com/RobinLinus/snapdrop) ⭐ 19,705 | 🐛 286 | 🌐 JavaScript | 📅 2025-02-10: A HTML5 clone of Apple's AirDrop
+* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,115 | 🐛 77 | 🌐 JavaScript | 📅 2026-08-11: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 * [beaker](https://github.com/pfraze/beaker) ⚠️ Archived: Decentralization tech in a browser built with electron.
 * [patchwork](https://github.com/ssbc/patchwork) ⚠️ Archived: p2p secure messaging
 * [friends](https://github.com/moose-team/friends) ⚠️ Archived: P2P chat
@@ -292,4 +292,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
