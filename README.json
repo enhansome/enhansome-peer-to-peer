@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31375,
+            "stars": 31379,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7803,
+            "stars": 7802,
             "topics": [
               "browser",
               "data-channels",
@@ -129,7 +129,7 @@
             "open_issues": 80,
             "owner": "butterproject",
             "repo": "butter-desktop",
-            "stars": 4256,
+            "stars": 4255,
             "topics": [
               "streaming",
               "torrents",
@@ -3683,7 +3683,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23059,
+            "stars": 23060,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3710,11 +3710,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T05:15:38Z",
-            "open_issues": 312,
+            "last_commit": "2026-09-01T02:55:38Z",
+            "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14363,
+            "stars": 14369,
             "topics": [
               "networking",
               "server",
@@ -3848,7 +3848,7 @@
             "open_issues": 148,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2724,
+            "stars": 2725,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4135,7 +4135,7 @@
             "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19705,
+            "stars": 19702,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:08:36.527Z",
+    "last_updated": "2026-09-01T13:28:57.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
