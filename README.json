@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T16:04:24Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31379,
+            "stars": 31381,
             "topics": [
               "bittorrent",
               "browser",
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 3003,
+            "stars": 3002,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2016,
+            "stars": 2017,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "mafintosh",
             "repo": "airpaste",
-            "stars": 829,
+            "stars": 828,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3683,7 +3683,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23060,
+            "stars": 23059,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3714,7 +3714,7 @@
             "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14369,
+            "stars": 14372,
             "topics": [
               "networking",
               "server",
@@ -3768,7 +3768,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8229,
+            "stars": 8227,
             "topics": [
               "command-line",
               "dat",
@@ -3845,7 +3845,7 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-08-07T22:37:07Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
             "stars": 2725,
@@ -4135,7 +4135,7 @@
             "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19702,
+            "stars": 19703,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4160,7 +4160,7 @@
             "open_issues": 77,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10115,
+            "stars": 10116,
             "topics": [
               "bittorrent",
               "electron",
@@ -4683,7 +4683,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4035,
+            "stars": 4034,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:28:57.530Z",
+    "last_updated": "2026-09-02T12:45:06.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
