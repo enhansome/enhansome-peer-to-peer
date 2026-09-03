@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:04:24Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-02T20:13:45Z",
+            "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31381,
+            "stars": 31383,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7802,
+            "stars": 7801,
             "topics": [
               "browser",
               "data-channels",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2017,
+            "stars": 2018,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1369,
+            "stars": 1370,
             "topics": [
               "bittorrent",
               "cli",
@@ -483,7 +483,7 @@
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1280,
+            "stars": 1281,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1151,7 +1151,7 @@
             "open_issues": 7,
             "owner": "webtorrent",
             "repo": "magnet-uri",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "bittorrent",
               "browser",
@@ -1454,7 +1454,7 @@
             "open_issues": 13,
             "owner": "nikhilm",
             "repo": "kademlia",
-            "stars": 143,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3711,10 +3711,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T02:55:38Z",
-            "open_issues": 310,
+            "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14372,
+            "stars": 14378,
             "topics": [
               "networking",
               "server",
@@ -3739,7 +3739,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13431,
+            "stars": 13432,
             "topics": [
               "browser",
               "dataconnection",
@@ -3845,10 +3845,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-08-07T22:37:07Z",
-            "open_issues": 149,
+            "open_issues": 148,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2725,
+            "stars": 2727,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3904,7 +3904,7 @@
             "id": 32023078,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-27T20:11:06Z",
+            "last_commit": "2026-09-02T16:16:59Z",
             "open_issues": 89,
             "owner": "ipfs",
             "repo": "specs",
@@ -4135,7 +4135,7 @@
             "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19703,
+            "stars": 19702,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4476,7 +4476,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4756,
+            "stars": 4755,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4683,7 +4683,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4034,
+            "stars": 4033,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:45:06.279Z",
+    "last_updated": "2026-09-03T12:48:16.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
