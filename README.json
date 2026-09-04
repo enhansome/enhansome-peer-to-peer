@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31383,
+            "stars": 31387,
             "topics": [
               "bittorrent",
               "browser",
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4695,
+            "stars": 4696,
             "topics": [
               "nodejs",
               "peerjs",
@@ -273,7 +273,7 @@
             "open_issues": 22,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1937,
+            "stars": 1939,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -3711,10 +3711,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T02:55:38Z",
-            "open_issues": 311,
+            "open_issues": 312,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14378,
+            "stars": 14382,
             "topics": [
               "networking",
               "server",
@@ -3739,7 +3739,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13432,
+            "stars": 13435,
             "topics": [
               "browser",
               "dataconnection",
@@ -3815,7 +3815,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3949,
+            "stars": 3950,
             "topics": [
               "bittorrent",
               "brew",
@@ -3848,7 +3848,7 @@
             "open_issues": 148,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2727,
+            "stars": 2728,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3904,8 +3904,8 @@
             "id": 32023078,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-02T16:16:59Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-03T14:26:04Z",
+            "open_issues": 90,
             "owner": "ipfs",
             "repo": "specs",
             "stars": 1238,
@@ -4135,7 +4135,7 @@
             "open_issues": 286,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19702,
+            "stars": 19700,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4156,8 +4156,8 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-11T21:55:07Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-03T19:51:48Z",
+            "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
             "stars": 10116,
@@ -4476,7 +4476,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4755,
+            "stars": 4757,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:48:16.805Z",
+    "last_updated": "2026-09-04T12:42:05.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4735,7 +4735,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2547,
+      "stars": 2548,
       "topics": [
         "awesome",
         "p2p",
