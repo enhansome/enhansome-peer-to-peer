@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31384,
+            "stars": 31387,
             "topics": [
               "bittorrent",
               "browser",
@@ -390,7 +390,7 @@
             "open_issues": 17,
             "owner": "cjb",
             "repo": "serverless-webrtc",
-            "stars": 1566,
+            "stars": 1567,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3683,7 +3683,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23059,
+            "stars": 23060,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3710,11 +3710,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T03:10:04Z",
-            "open_issues": 309,
+            "last_commit": "2026-09-07T01:46:24Z",
+            "open_issues": 305,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14387,
+            "stars": 14390,
             "topics": [
               "networking",
               "server",
@@ -3739,7 +3739,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13435,
+            "stars": 13436,
             "topics": [
               "browser",
               "dataconnection",
@@ -3848,7 +3848,7 @@
             "open_issues": 148,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2730,
+            "stars": 2734,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3887,7 +3887,7 @@
             "open_issues": 55,
             "owner": "simplewebrtc",
             "repo": "signalmaster",
-            "stars": 1301,
+            "stars": 1300,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 287,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19705,
+            "stars": 19708,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4476,7 +4476,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4756,
+            "stars": 4757,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4723,7 +4723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:07:38.005Z",
+    "last_updated": "2026-09-07T14:13:47.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
