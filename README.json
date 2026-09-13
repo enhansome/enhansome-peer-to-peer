@@ -975,7 +975,7 @@
             "open_issues": 15,
             "owner": "mappum",
             "repo": "electron-webrtc",
-            "stars": 317,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1255,8 +1255,8 @@
             "id": 75411113,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-24T21:12:47Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-12T21:03:53Z",
+            "open_issues": 10,
             "owner": "holepunchto",
             "repo": "dht-rpc",
             "stars": 213,
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23058,
+            "stars": 23059,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 306,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14402,
+            "stars": 14403,
             "topics": [
               "networking",
               "server",
@@ -3769,11 +3769,11 @@
             "id": 39718767,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T18:12:06Z",
+            "last_commit": "2026-09-13T08:03:56Z",
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3951,
+            "stars": 3950,
             "topics": [
               "bittorrent",
               "brew",
@@ -4093,7 +4093,7 @@
             "open_issues": 287,
             "owner": "SnapDrop",
             "repo": "snapdrop",
-            "stars": 19724,
+            "stars": 19727,
             "topics": [
               "pwa",
               "snapdrop",
@@ -4118,7 +4118,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10114,
+            "stars": 10113,
             "topics": [
               "bittorrent",
               "electron",
@@ -4639,7 +4639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:08:53.390Z",
+    "last_updated": "2026-09-13T13:17:28.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
