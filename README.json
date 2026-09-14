@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T01:54:13Z",
-            "open_issues": 84,
+            "last_commit": "2026-09-13T16:52:11Z",
+            "open_issues": 83,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31390,
+            "stars": 31392,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7800,
+            "stars": 7801,
             "topics": [
               "browser",
               "data-channels",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2095,
+            "stars": 2096,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2019,
+            "stars": 2020,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -252,7 +252,7 @@
             "open_issues": 91,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1973,
+            "stars": 1974,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -709,7 +709,7 @@
             "open_issues": 20,
             "owner": "mafintosh",
             "repo": "multicast-dns",
-            "stars": 532,
+            "stars": 533,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1824,6 +1824,27 @@
         },
         {
           "node_type": "item",
+          "title": "read-torrent",
+          "description": "read and parse a torrent from a resource",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "read and parse a torrent from a resource",
+            "homepage": null,
+            "id": 8779697,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2018-11-21T06:52:43Z",
+            "open_issues": 1,
+            "owner": "mafintosh",
+            "repo": "read-torrent",
+            "stars": 74,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:18.138Z"
+        },
+        {
+          "node_type": "item",
           "title": "libp2p-tcp",
           "description": "TCP implementation of abstract transport interface",
           "children": [],
@@ -1839,27 +1860,6 @@
             "owner": "libp2p",
             "repo": "js-libp2p-tcp",
             "stars": 74,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:18.138Z"
-        },
-        {
-          "node_type": "item",
-          "title": "read-torrent",
-          "description": "read and parse a torrent from a resource",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "read and parse a torrent from a resource",
-            "homepage": null,
-            "id": 8779697,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2018-11-21T06:52:43Z",
-            "open_issues": 1,
-            "owner": "mafintosh",
-            "repo": "read-torrent",
-            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3672,7 +3672,7 @@
             "open_issues": 306,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14403,
+            "stars": 14405,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13444,
+            "stars": 13445,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8225,
+            "stars": 8226,
             "topics": [
               "command-line",
               "dat",
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3950,
+            "stars": 3961,
             "topics": [
               "bittorrent",
               "brew",
@@ -3802,11 +3802,11 @@
             "id": 199076632,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-07T22:37:07Z",
-            "open_issues": 150,
+            "last_commit": "2026-09-14T12:41:01Z",
+            "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2741,
+            "stars": 2740,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4079,31 +4079,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "snapdrop",
-          "description": "A HTML5 clone of Apple's AirDrop",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Progressive Web App for local file sharing ",
-            "homepage": "https://snapdrop.net",
-            "id": 48242990,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2025-02-10T10:35:43Z",
-            "open_issues": 287,
-            "owner": "SnapDrop",
-            "repo": "snapdrop",
-            "stars": 19727,
-            "topics": [
-              "pwa",
-              "snapdrop",
-              "webrtc"
-            ]
-          },
-          "first_seen": "2026-08-28T20:11:18.138Z"
-        },
-        {
-          "node_type": "item",
           "title": "webtorrent-app",
           "description": "WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.",
           "children": [],
@@ -4118,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10113,
+            "stars": 10114,
             "topics": [
               "bittorrent",
               "electron",
@@ -4390,6 +4365,27 @@
             ]
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
+        },
+        {
+          "node_type": "item",
+          "title": "snapdrop",
+          "description": "A HTML5 clone of Apple's AirDrop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The easiest way to share files between devices",
+            "homepage": "snapdrop.me",
+            "id": 1369145622,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-14T08:21:50Z",
+            "open_issues": 0,
+            "owner": "RobinLinus",
+            "repo": "snapdrop",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-14T14:59:41.252Z"
         }
       ],
       "title": "Apps"
@@ -4639,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:17:28.269Z",
+    "last_updated": "2026-09-14T14:59:41.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4651,7 +4647,7 @@
       "open_issues": 20,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2547,
+      "stars": 2548,
       "topics": [
         "awesome",
         "p2p",
