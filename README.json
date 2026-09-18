@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7800,
+            "stars": 7801,
             "topics": [
               "browser",
               "data-channels",
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "nodejs",
               "peerjs",
@@ -227,8 +227,8 @@
             "id": 46445764,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-07T18:03:27Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-17T20:34:48Z",
+            "open_issues": 19,
             "owner": "holepunchto",
             "repo": "hyperdrive",
             "stars": 2020,
@@ -515,7 +515,7 @@
             "open_issues": 14,
             "owner": "ssbc",
             "repo": "ssb-db",
-            "stars": 1168,
+            "stars": 1169,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1148,7 +1148,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-10T03:45:54Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 238,
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23059,
+            "stars": 23058,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 307,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14414,
+            "stars": 14416,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13446,
+            "stars": 13447,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8225,
+            "stars": 8224,
             "topics": [
               "command-line",
               "dat",
@@ -3806,7 +3806,7 @@
             "open_issues": 151,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2742,
+            "stars": 2744,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4217,7 +4217,7 @@
             "open_issues": 19,
             "owner": "mikeal",
             "repo": "roll-call",
-            "stars": 1555,
+            "stars": 1556,
             "topics": [
               "javascript",
               "nodejs",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 5,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:24:37.762Z",
+    "last_updated": "2026-09-18T12:56:41.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
