@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T18:55:08Z",
+            "last_commit": "2026-09-18T21:46:34Z",
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31396,
+            "stars": 31401,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7801,
+            "stars": 7802,
             "topics": [
               "browser",
               "data-channels",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2096,
+            "stars": 2097,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 19,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2020,
+            "stars": 2021,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1371,
+            "stars": 1370,
             "topics": [
               "bittorrent",
               "cli",
@@ -1148,7 +1148,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-10T03:45:54Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 238,
@@ -3669,10 +3669,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T23:23:25Z",
-            "open_issues": 307,
+            "open_issues": 308,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14416,
+            "stars": 14418,
             "topics": [
               "networking",
               "server",
@@ -3803,7 +3803,7 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-09-16T10:29:47Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
             "stars": 2744,
@@ -3866,7 +3866,7 @@
             "open_issues": 90,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "ipfs",
               "p2p",
@@ -4089,7 +4089,7 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:24:55Z",
+            "last_commit": "2026-09-19T00:27:23Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
@@ -4158,7 +4158,7 @@
             "open_issues": 0,
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3569,
+            "stars": 3570,
             "topics": [
               "decentralized",
               "decentralized-messaging",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 15,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:56:41.700Z",
+    "last_updated": "2026-09-19T12:28:20.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
