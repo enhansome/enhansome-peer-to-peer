@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:46:34Z",
+            "last_commit": "2026-09-19T21:48:45Z",
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31401,
+            "stars": 31400,
             "topics": [
               "bittorrent",
               "browser",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6271,
+            "stars": 6270,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4699,
+            "stars": 4698,
             "topics": [
               "nodejs",
               "peerjs",
@@ -270,7 +270,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T21:12:43Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1941,
@@ -308,7 +308,7 @@
             "open_issues": 10,
             "owner": "gitsummore",
             "repo": "nile.js",
-            "stars": 1754,
+            "stars": 1755,
             "topics": [
               "distributed",
               "livestream",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "dominictarr",
             "repo": "scuttlebutt",
-            "stars": 1317,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23058,
+            "stars": 23059,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T23:23:25Z",
-            "open_issues": 308,
+            "last_commit": "2026-09-19T22:04:01Z",
+            "open_issues": 305,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14418,
+            "stars": 14419,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 201,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13447,
+            "stars": 13448,
             "topics": [
               "browser",
               "dataconnection",
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3967,
+            "stars": 3968,
             "topics": [
               "bittorrent",
               "brew",
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2744,
+            "stars": 2745,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4089,7 +4089,7 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T00:27:23Z",
+            "last_commit": "2026-09-19T18:30:24Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 22,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4409,7 +4409,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4757,
+            "stars": 4756,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:28:20.170Z",
+    "last_updated": "2026-09-20T13:02:02.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
