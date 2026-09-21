@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31400,
+            "stars": 31403,
             "topics": [
               "bittorrent",
               "browser",
@@ -231,7 +231,7 @@
             "open_issues": 19,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2021,
+            "stars": 2022,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1370,
+            "stars": 1371,
             "topics": [
               "bittorrent",
               "cli",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23059,
+            "stars": 23060,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 305,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14419,
+            "stars": 14420,
             "topics": [
               "networking",
               "server",
@@ -3694,7 +3694,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-27T00:49:47Z",
-            "open_issues": 201,
+            "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
             "stars": 13448,
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3968,
+            "stars": 3970,
             "topics": [
               "bittorrent",
               "brew",
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2745,
+            "stars": 2747,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10116,
+            "stars": 10118,
             "topics": [
               "bittorrent",
               "electron",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6739,
+            "stars": 6738,
             "topics": [
               "beaker",
               "browser",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4409,7 +4409,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4756,
+            "stars": 4758,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4451,7 +4451,7 @@
             "open_issues": 3,
             "owner": "elendirx",
             "repo": "web2web",
-            "stars": 2242,
+            "stars": 2241,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:02:02.078Z",
+    "last_updated": "2026-09-21T15:04:48.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
