@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-19T21:48:45Z",
-            "open_issues": 82,
+            "open_issues": 81,
             "owner": "webtorrent",
             "repo": "webtorrent",
             "stars": 31420,
@@ -175,7 +175,7 @@
             "open_issues": 110,
             "owner": "node-webrtc",
             "repo": "node-webrtc",
-            "stars": 2803,
+            "stars": 2804,
             "topics": [
               "bindings",
               "n-api",
@@ -231,7 +231,7 @@
             "open_issues": 19,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2022,
+            "stars": 2023,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -895,7 +895,7 @@
             "open_issues": 10,
             "owner": "webtorrent",
             "repo": "create-torrent",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "bittorrent",
               "browser",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T23:24:49Z",
-            "open_issues": 306,
+            "last_commit": "2026-09-25T21:58:36Z",
+            "open_issues": 304,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14430,
+            "stars": 14431,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13454,
+            "stars": 13455,
             "topics": [
               "browser",
               "dataconnection",
@@ -3803,10 +3803,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-09-25T09:03:46Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2748,
+            "stars": 2749,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4409,7 +4409,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4759,
+            "stars": 4760,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:43:25.639Z",
+    "last_updated": "2026-09-26T13:02:11.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
