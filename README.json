@@ -15,8 +15,8 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T21:48:45Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-29T13:09:37Z",
+            "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
             "stars": 31425,
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T21:58:36Z",
-            "open_issues": 305,
+            "last_commit": "2026-09-28T23:23:51Z",
+            "open_issues": 306,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14435,
+            "stars": 14438,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13455,
+            "stars": 13456,
             "topics": [
               "browser",
               "dataconnection",
@@ -3806,7 +3806,7 @@
             "open_issues": 153,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2752,
+            "stars": 2755,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4158,7 +4158,7 @@
             "open_issues": 0,
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3571,
+            "stars": 3572,
             "topics": [
               "decentralized",
               "decentralized-messaging",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:43:49.427Z",
+    "last_updated": "2026-09-29T14:49:53.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
