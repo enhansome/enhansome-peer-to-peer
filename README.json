@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T13:09:37Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-29T19:50:03Z",
+            "open_issues": 78,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31425,
+            "stars": 31426,
             "topics": [
               "bittorrent",
               "browser",
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1943,
+            "stars": 1942,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "bittorrent",
               "cli",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23063,
+            "stars": 23060,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3669,10 +3669,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T23:23:51Z",
-            "open_issues": 306,
+            "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14438,
+            "stars": 14442,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13456,
+            "stars": 13458,
             "topics": [
               "browser",
               "dataconnection",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10123,
+            "stars": 10124,
             "topics": [
               "bittorrent",
               "electron",
@@ -4313,7 +4313,7 @@
             "open_issues": 10,
             "owner": "victorb",
             "repo": "ipfsbin",
-            "stars": 133,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:49:53.803Z",
+    "last_updated": "2026-09-30T14:53:46.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
