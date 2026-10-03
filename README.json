@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7803,
+            "stars": 7801,
             "topics": [
               "browser",
               "data-channels",
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1942,
+            "stars": 1941,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1375,
+            "stars": 1374,
             "topics": [
               "bittorrent",
               "cli",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "dominictarr",
             "repo": "scuttlebutt",
-            "stars": 1318,
+            "stars": 1317,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -515,7 +515,7 @@
             "open_issues": 14,
             "owner": "ssbc",
             "repo": "ssb-db",
-            "stars": 1169,
+            "stars": 1168,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "mafintosh",
             "repo": "airpaste",
-            "stars": 828,
+            "stars": 827,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1025,7 +1025,7 @@
             "open_issues": 12,
             "owner": "dat-ecosystem-archive",
             "repo": "discovery-channel",
-            "stars": 298,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -2950,7 +2950,7 @@
         {
           "node_type": "item",
           "title": "webdht",
-          "description": null,
+          "description": "jhiesey/webdht",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23060,
+            "stars": 23057,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:19:10Z",
-            "open_issues": 310,
+            "last_commit": "2026-10-02T16:17:44Z",
+            "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14449,
+            "stars": 14452,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13462,
+            "stars": 13461,
             "topics": [
               "browser",
               "dataconnection",
@@ -3907,7 +3907,7 @@
         {
           "node_type": "item",
           "title": "rfc5766-turn-server",
-          "description": null,
+          "description": "coturn/rfc5766-turn-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4093,7 +4093,7 @@
             "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10123,
+            "stars": 10122,
             "topics": [
               "bittorrent",
               "electron",
@@ -4158,7 +4158,7 @@
             "open_issues": 0,
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3572,
+            "stars": 3569,
             "topics": [
               "decentralized",
               "decentralized-messaging",
@@ -4196,7 +4196,7 @@
             "open_issues": 53,
             "owner": "moose-team",
             "repo": "friends",
-            "stars": 3160,
+            "stars": 3159,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4279,7 +4279,7 @@
         {
           "node_type": "item",
           "title": "whiteboard",
-          "description": null,
+          "description": "feross/whiteboard",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4342,7 +4342,7 @@
         {
           "node_type": "item",
           "title": "PeerFast",
-          "description": "https://github.com/DiegoRBaquero/PeerFast",
+          "description": "DiegoRBaquero/PeerFast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3456,
+            "stars": 3457,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4492,7 +4492,7 @@
         {
           "node_type": "item",
           "title": "ipfs",
-          "description": null,
+          "description": "ipfs/papers",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:45.484Z",
+    "last_updated": "2026-10-03T05:00:49.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2549,
+      "stars": 2550,
       "topics": [
         "awesome",
         "p2p",
