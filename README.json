@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-29T19:50:03Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31425,
+            "stars": 31426,
             "topics": [
               "bittorrent",
               "browser",
@@ -3672,7 +3672,7 @@
             "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14452,
+            "stars": 14453,
             "topics": [
               "networking",
               "server",
@@ -3694,7 +3694,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-27T00:49:47Z",
-            "open_issues": 203,
+            "open_issues": 204,
             "owner": "peers",
             "repo": "peerjs",
             "stars": 13461,
@@ -3866,7 +3866,7 @@
             "open_issues": 91,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "ipfs",
               "p2p",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:49.568Z",
+    "last_updated": "2026-10-03T13:21:47.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
