@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:50:03Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-04T00:22:19Z",
+            "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31426,
+            "stars": 31428,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7801,
+            "stars": 7800,
             "topics": [
               "browser",
               "data-channels",
@@ -483,7 +483,7 @@
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1282,
+            "stars": 1283,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -515,7 +515,7 @@
             "open_issues": 14,
             "owner": "ssbc",
             "repo": "ssb-db",
-            "stars": 1168,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -781,7 +781,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "webcat",
-            "stars": 449,
+            "stars": 450,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3694,10 +3694,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-27T00:49:47Z",
-            "open_issues": 204,
+            "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13461,
+            "stars": 13462,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8224,
+            "stars": 8225,
             "topics": [
               "command-line",
               "dat",
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3972,
+            "stars": 3973,
             "topics": [
               "bittorrent",
               "brew",
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2757,
+            "stars": 2758,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3845,7 +3845,7 @@
             "open_issues": 55,
             "owner": "simplewebrtc",
             "repo": "signalmaster",
-            "stars": 1300,
+            "stars": 1299,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3894,7 +3894,7 @@
             "open_issues": 35,
             "owner": "xuset",
             "repo": "planktos",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "bittorrent",
               "service-worker",
@@ -3920,7 +3920,7 @@
             "open_issues": 0,
             "owner": "coturn",
             "repo": "rfc5766-turn-server",
-            "stars": 529,
+            "stars": 528,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3941,7 +3941,7 @@
             "open_issues": 29,
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 423,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4090,10 +4090,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-30T23:59:45Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10122,
+            "stars": 10123,
             "topics": [
               "bittorrent",
               "electron",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:21:47.541Z",
+    "last_updated": "2026-10-04T14:03:48.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
