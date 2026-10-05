@@ -19,7 +19,7 @@
             "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31428,
+            "stars": 31430,
             "topics": [
               "bittorrent",
               "browser",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6268,
+            "stars": 6269,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4699,
+            "stars": 4698,
             "topics": [
               "nodejs",
               "peerjs",
@@ -175,7 +175,7 @@
             "open_issues": 110,
             "owner": "node-webrtc",
             "repo": "node-webrtc",
-            "stars": 2804,
+            "stars": 2805,
             "topics": [
               "bindings",
               "n-api",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2099,
+            "stars": 2098,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2022,
+            "stars": 2023,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -411,7 +411,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "torrent-mount",
-            "stars": 1415,
+            "stars": 1416,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1374,
+            "stars": 1375,
             "topics": [
               "bittorrent",
               "cli",
@@ -925,7 +925,7 @@
             "open_issues": 2,
             "owner": "perguth",
             "repo": "peertransfer",
-            "stars": 334,
+            "stars": 333,
             "topics": [
               "browser",
               "encryption",
@@ -1067,7 +1067,7 @@
             "open_issues": 13,
             "owner": "rtc-io",
             "repo": "rtc",
-            "stars": 263,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1256,10 +1256,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T21:03:53Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "holepunchto",
             "repo": "dht-rpc",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23057,
+            "stars": 23058,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T16:17:44Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-04T20:59:30Z",
+            "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14453,
+            "stars": 14455,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13462,
+            "stars": 13461,
             "topics": [
               "browser",
               "dataconnection",
@@ -3752,7 +3752,7 @@
             "open_issues": 208,
             "owner": "simplewebrtc",
             "repo": "SimpleWebRTC",
-            "stars": 4684,
+            "stars": 4683,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2758,
+            "stars": 2759,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10123,
+            "stars": 10126,
             "topics": [
               "bittorrent",
               "electron",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:03:48.201Z",
+    "last_updated": "2026-10-05T17:06:51.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
