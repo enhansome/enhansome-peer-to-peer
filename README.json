@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "nodejs",
               "peerjs",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2098,
+            "stars": 2099,
             "topics": [
               "javascript",
               "nodejs",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13461,
+            "stars": 13462,
             "topics": [
               "browser",
               "dataconnection",
@@ -3866,7 +3866,7 @@
             "open_issues": 91,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1241,
+            "stars": 1242,
             "topics": [
               "ipfs",
               "p2p",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:16:08.337Z",
+    "last_updated": "2026-10-06T15:07:04.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
