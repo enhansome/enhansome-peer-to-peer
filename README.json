@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T00:22:19Z",
+            "last_commit": "2026-10-07T00:24:55Z",
             "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31430,
+            "stars": 31431,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7800,
+            "stars": 7797,
             "topics": [
               "browser",
               "data-channels",
@@ -175,7 +175,7 @@
             "open_issues": 110,
             "owner": "node-webrtc",
             "repo": "node-webrtc",
-            "stars": 2805,
+            "stars": 2803,
             "topics": [
               "bindings",
               "n-api",
@@ -336,7 +336,7 @@
             "open_issues": 64,
             "owner": "orbitdb-archive",
             "repo": "orbit",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "chat",
               "distributed",
@@ -363,7 +363,7 @@
             "open_issues": 64,
             "owner": "orbitdb-archive",
             "repo": "orbit",
-            "stars": 1632,
+            "stars": 1631,
             "topics": [
               "chat",
               "distributed",
@@ -432,7 +432,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1376,
+            "stars": 1377,
             "topics": [
               "bittorrent",
               "cli",
@@ -536,7 +536,7 @@
             "open_issues": 46,
             "owner": "socketio",
             "repo": "socket.io-p2p",
-            "stars": 1035,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -646,7 +646,7 @@
             "open_issues": 17,
             "owner": "mafintosh",
             "repo": "signalhub",
-            "stars": 674,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -823,7 +823,7 @@
             "open_issues": 15,
             "owner": "mafintosh",
             "repo": "webrtc-swarm",
-            "stars": 378,
+            "stars": 377,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -975,7 +975,7 @@
             "open_issues": 15,
             "owner": "mappum",
             "repo": "electron-webrtc",
-            "stars": 316,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 6,
             "owner": "webtorrent",
             "repo": "torrent-discovery",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23059,
+            "stars": 23056,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14456,
+            "stars": 14461,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 203,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13462,
+            "stars": 13461,
             "topics": [
               "browser",
               "dataconnection",
@@ -3802,11 +3802,11 @@
             "id": 199076632,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-26T22:32:04Z",
-            "open_issues": 152,
+            "last_commit": "2026-10-07T09:13:36Z",
+            "open_issues": 150,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2760,
+            "stars": 2758,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4089,7 +4089,7 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:57:51Z",
+            "last_commit": "2026-10-07T00:23:21Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6739,
+            "stars": 6738,
             "topics": [
               "beaker",
               "browser",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3457,
+            "stars": 3456,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4033,
+            "stars": 4032,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:07:04.416Z",
+    "last_updated": "2026-10-07T15:31:51.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
