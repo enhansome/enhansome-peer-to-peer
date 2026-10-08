@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:24:55Z",
+            "last_commit": "2026-10-08T13:10:24Z",
             "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31431,
+            "stars": 31430,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7797,
+            "stars": 7798,
             "topics": [
               "browser",
               "data-channels",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2023,
+            "stars": 2022,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23056,
+            "stars": 23057,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14461,
+            "stars": 14466,
             "topics": [
               "networking",
               "server",
@@ -3694,7 +3694,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-02-27T00:49:47Z",
-            "open_issues": 203,
+            "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
             "stars": 13461,
@@ -3803,10 +3803,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-10-07T09:13:36Z",
-            "open_issues": 150,
+            "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2758,
+            "stars": 2757,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4089,11 +4089,11 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:23:21Z",
+            "last_commit": "2026-10-08T13:11:55Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10128,
+            "stars": 10130,
             "topics": [
               "bittorrent",
               "electron",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:31:51.746Z",
+    "last_updated": "2026-10-08T15:33:24.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2550,
+      "stars": 2551,
       "topics": [
         "awesome",
         "p2p",
