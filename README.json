@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T13:10:24Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "webtorrent",
             "repo": "webtorrent",
             "stars": 31430,
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6269,
+            "stars": 6268,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2022,
+            "stars": 2023,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -252,7 +252,7 @@
             "open_issues": 91,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1974,
+            "stars": 1973,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -583,7 +583,7 @@
             "open_issues": 45,
             "owner": "agnat",
             "repo": "node_mdns",
-            "stars": 876,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -709,7 +709,7 @@
             "open_issues": 20,
             "owner": "mafintosh",
             "repo": "multicast-dns",
-            "stars": 533,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1109,7 +1109,7 @@
             "open_issues": 7,
             "owner": "mafintosh",
             "repo": "polo",
-            "stars": 245,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1148,7 +1148,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-10T03:45:54Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 238,
@@ -1347,7 +1347,7 @@
             "open_issues": 28,
             "owner": "rtc-io",
             "repo": "rtc-quickconnect",
-            "stars": 186,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23057,
+            "stars": 23054,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 309,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14469,
+            "stars": 14472,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13463,
+            "stars": 13464,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8225,
+            "stars": 8224,
             "topics": [
               "command-line",
               "dat",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10132,
+            "stars": 10135,
             "topics": [
               "bittorrent",
               "electron",
@@ -4196,7 +4196,7 @@
             "open_issues": 53,
             "owner": "moose-team",
             "repo": "friends",
-            "stars": 3160,
+            "stars": 3159,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:15:47.559Z",
+    "last_updated": "2026-10-10T14:26:53.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
