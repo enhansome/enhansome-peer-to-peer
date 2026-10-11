@@ -4,8 +4,8 @@
 
 ## Modules
 
-* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,430 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-08: streaming torrent client for node and the browser
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,798 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26: Simple WebRTC video/voice and data channels
+* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,434 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-08: streaming torrent client for node and the browser
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,799 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26: Simple WebRTC video/voice and data channels
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,268 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19: streaming torrent client for NodeJS
 * [peer](https://github.com/peers/peerjs-server) ⭐ 4,700 | 🐛 44 | 🌐 TypeScript | 📅 2026-02-27: peerjs server
 * [butter](https://github.com/butterproject/butter-desktop) ⭐ 4,252 | 🐛 80 | 🌐 JavaScript | 📅 2020-11-01: free parts of popcorn time
@@ -20,9 +20,9 @@
 * [orbit](https://github.com/haadcode/orbit) ⚠️ Archived: Distributed peer-to-peer chat application on IPFS
 * [serverless-webrtc](https://github.com/cjb/serverless-webrtc) ⭐ 1,565 | 🐛 17 | 🌐 JavaScript | 📅 2021-09-03: serverless WebRTC
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,416 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29: Mount a torrent or magnet link as a filesystem
-* [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,378 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-27: WebTorrent, the streaming torrent client. For the command line.
+* [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,380 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-27: WebTorrent, the streaming torrent client. For the command line.
 * [scuttlebutt](https://github.com/dominictarr/scuttlebutt) ⭐ 1,317 | 🐛 19 | 🌐 JavaScript | 📅 2017-04-12: real-time replication
-* [bittorrent-dht](https://github.com/feross/bittorrent-dht) ⭐ 1,283 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-10: BitTorrent DHT implementation
+* [bittorrent-dht](https://github.com/feross/bittorrent-dht) ⭐ 1,284 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-10: BitTorrent DHT implementation
 * [secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt) ⭐ 1,167 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-13: secure database with replication
 * [socket.io-p2p](https://github.com/socketio/socket.io-p2p) ⭐ 1,034 | 🐛 46 | 🌐 JavaScript | 📅 2020-10-03: signalling server and client library
 * [viraljs](https://github.com/PixelsCommander/ViralJS) ⭐ 955 | 🐛 5 | 🌐 JavaScript | 📅 2016-08-10: p2p distribution of apps
@@ -51,7 +51,7 @@
 * [ipscend](https://github.com/diasdavid/ipscend) ⚠️ Archived: deploy and host web apps on IPFS
 * [polo](https://github.com/mafintosh/polo) ⭐ 244 | 🐛 7 | 🌐 JavaScript | 📅 2015-03-30: zero configuration service discovery
 * [kadoh](https://github.com/jinroh/kadoh) ⭐ 241 | 🐛 20 | 🌐 JavaScript | 📅 2013-12-08: kademlia over HTTP
-* [magnet-uri](https://github.com/feross/magnet-uri) ⭐ 238 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-10: parse a magnet URI
+* [magnet-uri](https://github.com/feross/magnet-uri) ⭐ 238 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-10: parse a magnet URI
 * [osm-p2p-db](https://github.com/substack/osm-p2p-db) ⭐ 236 | 🐛 24 | 🌐 JavaScript | 📅 2018-08-15: p2p database for open street map data
 * [nuTorrent](https://github.com/LeeChSien/nuTorrent) ⭐ 232 | 🐛 3 | 🌐 JavaScript | 📅 2015-11-20: A Pure Javascript BitTorrent Client
 * [torrent-discovery](https://github.com/feross/torrent-discovery) ⭐ 229 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-10: Discover BitTorrent and WebTorrent peers
@@ -185,9 +185,9 @@
 
 ## Libraries
 
-* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,054 | 🐛 8 | 📅 2025-05-01: distributed file system
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,472 | 🐛 309 | 🌐 C | 📅 2026-10-06: next evolution of the rfc5766-turn-server project
-* [peerjs](https://github.com/peers/peerjs) ⭐ 13,464 | 🐛 206 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
+* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,055 | 🐛 8 | 📅 2025-05-01: distributed file system
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,474 | 🐛 309 | 🌐 C | 📅 2026-10-06: next evolution of the rfc5766-turn-server project
+* [peerjs](https://github.com/peers/peerjs) ⭐ 13,465 | 🐛 206 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
 * [dat](https://github.com/datproject/dat) ⭐ 8,224 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07: Sync data across the distributed web
 * [SimpleWebRTC](https://github.com/andyet/SimpleWebRTC) ⭐ 4,683 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14: browser JS library
 * [btfs](https://github.com/johang/btfs) ⭐ 3,974 | 🐛 19 | 🌐 C++ | 📅 2026-09-13: bittorrent filesystem based on FUSE (C++)
@@ -206,11 +206,11 @@
 
 ## Apps
 
-* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,135 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-08: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,139 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-08: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 * [beaker](https://github.com/pfraze/beaker) ⚠️ Archived: Decentralization tech in a browser built with electron.
 * [patchwork](https://github.com/ssbc/patchwork) ⚠️ Archived: p2p secure messaging
 * [friends](https://github.com/moose-team/friends) ⚠️ Archived: P2P chat
-* [roll-call](https://github.com/mikeal/roll-call) ⭐ 1,556 | 🐛 19 | 🌐 JavaScript | 📅 2017-09-25: Free and reliable audio calls for everyone w/ browser p2p.
+* [roll-call](https://github.com/mikeal/roll-call) ⭐ 1,557 | 🐛 19 | 🌐 JavaScript | 📅 2017-09-25: Free and reliable audio calls for everyone w/ browser p2p.
 * [cache-p2p](https://github.com/guerrerocarlos/CacheP2P) ⭐ 862 | 🐛 17 | 🌐 JavaScript | 📅 2022-01-21: CacheP2P is a highly distributed cache platform based on WebTorrent and runs only in the browser.
 * [dropub](https://github.com/mikeal/dropub) ⭐ 218 | 🐛 37 | 🌐 Vue | 📅 2023-01-03: P2P publishing for everyone. Dropbox meets BitTorrent.
 * [whiteboard](https://github.com/feross/whiteboard) ⚠️ Archived
@@ -292,4 +292,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
