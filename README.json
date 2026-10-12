@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-08T13:10:24Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31434,
+            "stars": 31433,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7799,
+            "stars": 7798,
             "topics": [
               "browser",
               "data-channels",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6268,
+            "stars": 6267,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -129,7 +129,7 @@
             "open_issues": 80,
             "owner": "butterproject",
             "repo": "butter-desktop",
-            "stars": 4252,
+            "stars": 4251,
             "topics": [
               "streaming",
               "torrents",
@@ -172,7 +172,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-03-26T15:00:54Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "node-webrtc",
             "repo": "node-webrtc",
             "stars": 2804,
@@ -252,7 +252,7 @@
             "open_issues": 91,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1973,
+            "stars": 1972,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1942,
+            "stars": 1941,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -411,7 +411,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "torrent-mount",
-            "stars": 1416,
+            "stars": 1415,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -483,7 +483,7 @@
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1284,
+            "stars": 1283,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -667,7 +667,7 @@
             "open_issues": 6,
             "owner": "yocontra",
             "repo": "rtc-everywhere",
-            "stars": 653,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -709,7 +709,7 @@
             "open_issues": 20,
             "owner": "mafintosh",
             "repo": "multicast-dns",
-            "stars": 532,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1046,7 +1046,7 @@
             "open_issues": 10,
             "owner": "DamonOehlman",
             "repo": "freeice",
-            "stars": 290,
+            "stars": 289,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1151,7 +1151,7 @@
             "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
-            "stars": 238,
+            "stars": 237,
             "topics": [
               "bittorrent",
               "browser",
@@ -1225,7 +1225,7 @@
             "open_issues": 6,
             "owner": "webtorrent",
             "repo": "torrent-discovery",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1496,7 +1496,7 @@
             "open_issues": 1,
             "owner": "mafintosh",
             "repo": "airswarm",
-            "stars": 130,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1796,7 +1796,7 @@
             "open_issues": 8,
             "owner": "mafintosh",
             "repo": "peer-wire-swarm",
-            "stars": 80,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23055,
+            "stars": 23053,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T05:24:02Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-12T00:00:42Z",
+            "open_issues": 308,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14474,
+            "stars": 14472,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13465,
+            "stars": 13466,
             "topics": [
               "browser",
               "dataconnection",
@@ -3752,7 +3752,7 @@
             "open_issues": 208,
             "owner": "simplewebrtc",
             "repo": "SimpleWebRTC",
-            "stars": 4683,
+            "stars": 4682,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3974,
+            "stars": 3975,
             "topics": [
               "bittorrent",
               "brew",
@@ -3845,7 +3845,7 @@
             "open_issues": 55,
             "owner": "simplewebrtc",
             "repo": "signalmaster",
-            "stars": 1299,
+            "stars": 1298,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3920,7 +3920,7 @@
             "open_issues": 0,
             "owner": "coturn",
             "repo": "rfc5766-turn-server",
-            "stars": 528,
+            "stars": 527,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3983,7 +3983,7 @@
             "open_issues": 6,
             "owner": "feross",
             "repo": "p2p-graph",
-            "stars": 285,
+            "stars": 284,
             "topics": [
               "d3",
               "demo",
@@ -4089,11 +4089,11 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:11:55Z",
+            "last_commit": "2026-10-12T12:34:53Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10139,
+            "stars": 10140,
             "topics": [
               "bittorrent",
               "electron",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6740,
+            "stars": 6739,
             "topics": [
               "beaker",
               "browser",
@@ -4196,7 +4196,7 @@
             "open_issues": 53,
             "owner": "moose-team",
             "repo": "friends",
-            "stars": 3159,
+            "stars": 3158,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4409,7 +4409,7 @@
             "open_issues": 48,
             "owner": "cjb",
             "repo": "GitTorrent",
-            "stars": 4761,
+            "stars": 4760,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4451,7 +4451,7 @@
             "open_issues": 3,
             "owner": "elendirx",
             "repo": "web2web",
-            "stars": 2242,
+            "stars": 2241,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:53:42.019Z",
+    "last_updated": "2026-10-12T17:50:46.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2553,
+      "stars": 2554,
       "topics": [
         "awesome",
         "p2p",
