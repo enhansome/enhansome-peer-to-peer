@@ -19,7 +19,7 @@
             "open_issues": 78,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31433,
+            "stars": 31438,
             "topics": [
               "bittorrent",
               "browser",
@@ -129,7 +129,7 @@
             "open_issues": 80,
             "owner": "butterproject",
             "repo": "butter-desktop",
-            "stars": 4251,
+            "stars": 4249,
             "topics": [
               "streaming",
               "torrents",
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2100,
+            "stars": 2099,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2023,
+            "stars": 2022,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1941,
+            "stars": 1940,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -844,7 +844,7 @@
             "open_issues": 29,
             "owner": "mafintosh",
             "repo": "discovery-swarm",
-            "stars": 371,
+            "stars": 370,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -895,7 +895,7 @@
             "open_issues": 10,
             "owner": "webtorrent",
             "repo": "create-torrent",
-            "stars": 358,
+            "stars": 356,
             "topics": [
               "bittorrent",
               "browser",
@@ -1025,7 +1025,7 @@
             "open_issues": 12,
             "owner": "dat-ecosystem-archive",
             "repo": "discovery-channel",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053,
+            "stars": 23051,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 308,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14472,
+            "stars": 14476,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13466,
+            "stars": 13464,
             "topics": [
               "browser",
               "dataconnection",
@@ -3773,7 +3773,7 @@
             "open_issues": 19,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3975,
+            "stars": 3974,
             "topics": [
               "bittorrent",
               "brew",
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4089,11 +4089,11 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:34:53Z",
+            "last_commit": "2026-10-13T14:04:48Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10140,
+            "stars": 10141,
             "topics": [
               "bittorrent",
               "electron",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6739,
+            "stars": 6738,
             "topics": [
               "beaker",
               "browser",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:50:46.842Z",
+    "last_updated": "2026-10-13T15:55:15.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2554,
+      "stars": 2555,
       "topics": [
         "awesome",
         "p2p",
