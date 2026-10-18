@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:22:11Z",
+            "last_commit": "2026-10-17T20:22:38Z",
             "open_issues": 82,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31445,
+            "stars": 31449,
             "topics": [
               "bittorrent",
               "browser",
@@ -273,7 +273,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1942,
+            "stars": 1941,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -1297,7 +1297,7 @@
             "id": 2192549,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T10:53:57Z",
+            "last_commit": "2026-10-18T06:08:31Z",
             "open_issues": 3,
             "owner": "fent",
             "repo": "node-torrent",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23052,
+            "stars": 23053,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14487,
+            "stars": 14489,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13489,
+            "stars": 13490,
             "topics": [
               "browser",
               "dataconnection",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10140,
+            "stars": 10139,
             "topics": [
               "bittorrent",
               "electron",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:09:40.884Z",
+    "last_updated": "2026-10-18T12:35:31.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
