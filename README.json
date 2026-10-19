@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T20:22:38Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31449,
+            "stars": 31451,
             "topics": [
               "bittorrent",
               "browser",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6270,
+            "stars": 6269,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4701,
+            "stars": 4700,
             "topics": [
               "nodejs",
               "peerjs",
@@ -411,7 +411,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "torrent-mount",
-            "stars": 1415,
+            "stars": 1414,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1297,8 +1297,8 @@
             "id": 2192549,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T06:08:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-19T06:14:23Z",
+            "open_issues": 2,
             "owner": "fent",
             "repo": "node-torrent",
             "stars": 196,
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053,
+            "stars": 23054,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 310,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14489,
+            "stars": 14490,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13490,
+            "stars": 13491,
             "topics": [
               "browser",
               "dataconnection",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:35:31.717Z",
+    "last_updated": "2026-10-19T15:33:49.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
