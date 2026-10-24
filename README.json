@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:44:13Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-24T03:26:05Z",
+            "open_issues": 81,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31447,
+            "stars": 31450,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7797,
+            "stars": 7796,
             "topics": [
               "browser",
               "data-channels",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6269,
+            "stars": 6268,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 3000,
+            "stars": 2999,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "javascript",
               "nodejs",
@@ -411,7 +411,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "torrent-mount",
-            "stars": 1414,
+            "stars": 1413,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053,
+            "stars": 23055,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 314,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14503,
+            "stars": 14504,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13491,
+            "stars": 13492,
             "topics": [
               "browser",
               "dataconnection",
@@ -3806,7 +3806,7 @@
             "open_issues": 152,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2768,
+            "stars": 2769,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4093,7 +4093,7 @@
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10141,
+            "stars": 10142,
             "topics": [
               "bittorrent",
               "electron",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:21:48.160Z",
+    "last_updated": "2026-10-24T12:38:52.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 22,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2557,
+      "stars": 2558,
       "topics": [
         "awesome",
         "p2p",
