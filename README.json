@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T03:26:05Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-24T18:40:44Z",
+            "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31450,
+            "stars": 31454,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7796,
+            "stars": 7798,
             "topics": [
               "browser",
               "data-channels",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6268,
+            "stars": 6269,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2101,
+            "stars": 2102,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 20,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2027,
+            "stars": 2029,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1040,10 +1040,10 @@
             "description": "Get free, randomized STUN and TURN servers for your WebRTC application",
             "homepage": null,
             "id": 16248020,
-            "language": "JavaScript",
+            "language": "Rust",
             "license": "MIT",
-            "last_commit": "2023-03-04T21:32:26Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-25T05:04:08Z",
+            "open_issues": 9,
             "owner": "DamonOehlman",
             "repo": "freeice",
             "stars": 289,
@@ -1347,7 +1347,7 @@
             "open_issues": 28,
             "owner": "rtc-io",
             "repo": "rtc-quickconnect",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -2269,6 +2269,27 @@
         },
         {
           "node_type": "item",
+          "title": "libp2p-swarm",
+          "description": "IPFS swarm implementation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "[DEPRECATED]: now part of the https://github.com/libp2p/js-libp2p repo",
+            "homepage": "https://libp2p.io",
+            "id": 38784511,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2019-08-23T10:26:02Z",
+            "open_issues": 2,
+            "owner": "libp2p",
+            "repo": "js-libp2p-switch",
+            "stars": 48,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:18.138Z"
+        },
+        {
+          "node_type": "item",
           "title": "hyperhost",
           "description": "P2P Node Servers in the Browser",
           "children": [],
@@ -2308,27 +2329,6 @@
             "open_issues": 2,
             "owner": "mafintosh",
             "repo": "peer-wire-protocol",
-            "stars": 47,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:18.138Z"
-        },
-        {
-          "node_type": "item",
-          "title": "libp2p-swarm",
-          "description": "IPFS swarm implementation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "[DEPRECATED]: now part of the https://github.com/libp2p/js-libp2p repo",
-            "homepage": "https://libp2p.io",
-            "id": 38784511,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2019-08-23T10:26:02Z",
-            "open_issues": 2,
-            "owner": "libp2p",
-            "repo": "js-libp2p-switch",
             "stars": 47,
             "topics": []
           },
@@ -3672,7 +3672,7 @@
             "open_issues": 314,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14504,
+            "stars": 14511,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13492,
+            "stars": 13494,
             "topics": [
               "browser",
               "dataconnection",
@@ -3866,7 +3866,7 @@
             "open_issues": 91,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "ipfs",
               "p2p",
@@ -4089,11 +4089,11 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:30:03Z",
+            "last_commit": "2026-10-24T18:39:31Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10142,
+            "stars": 10141,
             "topics": [
               "bittorrent",
               "electron",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:38:52.009Z",
+    "last_updated": "2026-10-25T13:09:46.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
