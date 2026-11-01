@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:51:33Z",
+            "last_commit": "2026-10-31T22:51:56Z",
             "open_issues": 82,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31464,
+            "stars": 31465,
             "topics": [
               "bittorrent",
               "browser",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T05:08:25Z",
+            "last_commit": "2026-10-31T17:21:34Z",
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14532,
+            "stars": 14533,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13499,
+            "stars": 13500,
             "topics": [
               "browser",
               "dataconnection",
@@ -3806,7 +3806,7 @@
             "open_issues": 157,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2780,
+            "stars": 2781,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3866,7 +3866,7 @@
             "open_issues": 91,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "ipfs",
               "p2p",
@@ -4451,7 +4451,7 @@
             "open_issues": 3,
             "owner": "elendirx",
             "repo": "web2web",
-            "stars": 2242,
+            "stars": 2241,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:30:03.336Z",
+    "last_updated": "2026-11-01T15:03:42.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4644,7 +4644,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2023-03-28T09:11:13Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
       "stars": 2558,
