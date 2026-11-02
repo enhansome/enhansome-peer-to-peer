@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7799,
+            "stars": 7798,
             "topics": [
               "browser",
               "data-channels",
@@ -101,7 +101,7 @@
             "open_issues": 44,
             "owner": "peers",
             "repo": "peerjs-server",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "nodejs",
               "peerjs",
@@ -154,7 +154,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 2996,
+            "stars": 2995,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -202,7 +202,7 @@
             "open_issues": 97,
             "owner": "onsip",
             "repo": "SIP.js",
-            "stars": 2103,
+            "stars": 2104,
             "topics": [
               "javascript",
               "nodejs",
@@ -231,7 +231,7 @@
             "open_issues": 21,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2033,
+            "stars": 2034,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -308,7 +308,7 @@
             "open_issues": 10,
             "owner": "gitsummore",
             "repo": "nile.js",
-            "stars": 1757,
+            "stars": 1756,
             "topics": [
               "distributed",
               "livestream",
@@ -709,7 +709,7 @@
             "open_issues": 20,
             "owner": "mafintosh",
             "repo": "multicast-dns",
-            "stars": 532,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1866,27 +1866,6 @@
         },
         {
           "node_type": "item",
-          "title": "resilient-swarm",
-          "description": "An efficient, secure, and reliable WebRTC swarm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐝 We on a WebRTC Swarm! ",
-            "homepage": null,
-            "id": 65692979,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2017-09-19T19:38:05Z",
-            "open_issues": 3,
-            "owner": "mikeal",
-            "repo": "killa-beez",
-            "stars": 73,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:18.138Z"
-        },
-        {
-          "node_type": "item",
           "title": "rtc-mesh",
           "description": "create a P2P mesh data structure using data channels",
           "children": [],
@@ -1901,6 +1880,27 @@
             "open_issues": 5,
             "owner": "rtc-io",
             "repo": "rtc-mesh",
+            "stars": 72,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:11:18.138Z"
+        },
+        {
+          "node_type": "item",
+          "title": "resilient-swarm",
+          "description": "An efficient, secure, and reliable WebRTC swarm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐝 We on a WebRTC Swarm! ",
+            "homepage": null,
+            "id": 65692979,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2017-09-19T19:38:05Z",
+            "open_issues": 3,
+            "owner": "mikeal",
+            "repo": "killa-beez",
             "stars": 72,
             "topics": []
           },
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T17:21:34Z",
-            "open_issues": 311,
+            "last_commit": "2026-11-02T01:09:03Z",
+            "open_issues": 315,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14533,
+            "stars": 14534,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13500,
+            "stars": 13501,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8223,
+            "stars": 8221,
             "topics": [
               "command-line",
               "dat",
@@ -3806,7 +3806,7 @@
             "open_issues": 157,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2781,
+            "stars": 2783,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3983,7 +3983,7 @@
             "open_issues": 6,
             "owner": "feross",
             "repo": "p2p-graph",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "d3",
               "demo",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6734,
+            "stars": 6733,
             "topics": [
               "beaker",
               "browser",
@@ -4217,7 +4217,7 @@
             "open_issues": 19,
             "owner": "mikeal",
             "repo": "roll-call",
-            "stars": 1556,
+            "stars": 1555,
             "topics": [
               "javascript",
               "nodejs",
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3459,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:03:42.950Z",
+    "last_updated": "2026-11-02T18:16:44.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 23,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2558,
+      "stars": 2561,
       "topics": [
         "awesome",
         "p2p",
