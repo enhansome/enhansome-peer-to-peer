@@ -19,7 +19,7 @@
             "open_issues": 87,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31470,
+            "stars": 31473,
             "topics": [
               "bittorrent",
               "browser",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6268,
+            "stars": 6269,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -252,7 +252,7 @@
             "open_issues": 91,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1973,
+            "stars": 1974,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -751,7 +751,7 @@
             "open_issues": 18,
             "owner": "webtorrent",
             "repo": "parse-torrent",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "bittorrent",
               "browser",
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23056,
+            "stars": 23057,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T04:22:30Z",
-            "open_issues": 314,
+            "last_commit": "2026-11-09T17:05:09Z",
+            "open_issues": 313,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14544,
+            "stars": 14548,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13509,
+            "stars": 13510,
             "topics": [
               "browser",
               "dataconnection",
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3457,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4030,
+            "stars": 4031,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:08:14.860Z",
+    "last_updated": "2026-11-09T18:43:27.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
