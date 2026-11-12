@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7798,
+            "stars": 7799,
             "topics": [
               "browser",
               "data-channels",
@@ -270,7 +270,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-28T04:01:51Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1942,
@@ -515,7 +515,7 @@
             "open_issues": 14,
             "owner": "ssbc",
             "repo": "ssb-db",
-            "stars": 1168,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3672,7 +3672,7 @@
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14554,
+            "stars": 14557,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13515,
+            "stars": 13516,
             "topics": [
               "browser",
               "dataconnection",
@@ -3770,7 +3770,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-13T08:03:56Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "johang",
             "repo": "btfs",
             "stars": 3975,
@@ -4089,7 +4089,7 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T01:49:15Z",
+            "last_commit": "2026-11-11T16:46:10Z",
             "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
@@ -4292,7 +4292,7 @@
             "open_issues": 0,
             "owner": "feross",
             "repo": "whiteboard",
-            "stars": 158,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T16:07:10.102Z",
+    "last_updated": "2026-11-12T16:46:12.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 23,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2561,
+      "stars": 2562,
       "topics": [
         "awesome",
         "p2p",
