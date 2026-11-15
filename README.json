@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:08:00Z",
+            "last_commit": "2026-11-14T23:52:16Z",
             "open_issues": 88,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31476,
+            "stars": 31478,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7798,
+            "stars": 7796,
             "topics": [
               "browser",
               "data-channels",
@@ -249,7 +249,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2020-12-04T19:55:34Z",
-            "open_issues": 91,
+            "open_issues": 90,
             "owner": "mafintosh",
             "repo": "torrent-stream",
             "stars": 1973,
@@ -1295,9 +1295,9 @@
             "description": "Torrent reader, writer, and hash checker for node.",
             "homepage": null,
             "id": 2192549,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T08:55:49Z",
+            "last_commit": "2026-11-15T06:48:14Z",
             "open_issues": 1,
             "owner": "fent",
             "repo": "node-torrent",
@@ -3672,7 +3672,7 @@
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14562,
+            "stars": 14564,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13514,
+            "stars": 13519,
             "topics": [
               "browser",
               "dataconnection",
@@ -3773,7 +3773,7 @@
             "open_issues": 17,
             "owner": "johang",
             "repo": "btfs",
-            "stars": 3975,
+            "stars": 3976,
             "topics": [
               "bittorrent",
               "brew",
@@ -3806,7 +3806,7 @@
             "open_issues": 158,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2784,
+            "stars": 2786,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3941,7 +3941,7 @@
             "open_issues": 29,
             "owner": "ipfs",
             "repo": "ipget",
-            "stars": 421,
+            "stars": 420,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:01:00.007Z",
+    "last_updated": "2026-11-15T15:37:53.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
