@@ -4,15 +4,15 @@
 
 ## Modules
 
-* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,478 | 🐛 88 | 🌐 JavaScript | 📅 2026-11-14: streaming torrent client for node and the browser
+* [webtorrent](https://github.com/feross/webtorrent) ⭐ 31,477 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-14: streaming torrent client for node and the browser
 * [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,796 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26: Simple WebRTC video/voice and data channels
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,269 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19: streaming torrent client for NodeJS
 * [peer](https://github.com/peers/peerjs-server) ⭐ 4,700 | 🐛 44 | 🌐 TypeScript | 📅 2026-02-27: peerjs server
-* [butter](https://github.com/butterproject/butter-desktop) ⭐ 4,251 | 🐛 80 | 🌐 JavaScript | 📅 2020-11-01: free parts of popcorn time
+* [butter](https://github.com/butterproject/butter-desktop) ⭐ 4,252 | 🐛 80 | 🌐 JavaScript | 📅 2020-11-01: free parts of popcorn time
 * [screencat](https://github.com/maxogden/screencat) ⭐ 2,993 | 🐛 37 | 🌐 CSS | 📅 2016-02-18: WebRTC screensharing
 * [wrtc](https://github.com/js-platform/node-webrtc) ⭐ 2,802 | 🐛 111 | 🌐 C++ | 📅 2026-03-26: native module for NodeJS
 * [SIP.js](https://github.com/onsip/SIP.js) ⭐ 2,109 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-15: A simple, intuitive, and powerful JavaScript signaling library
-* [hyperdrive](https://github.com/mafintosh/hyperdrive) ⭐ 2,031 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-17: A file sharing network based on rabin file chunking and append only feeds of data verified by merkle trees.
+* [hyperdrive](https://github.com/mafintosh/hyperdrive) ⭐ 2,032 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-17: A file sharing network based on rabin file chunking and append only feeds of data verified by merkle trees.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) ⭐ 1,973 | 🐛 90 | 🌐 JavaScript | 📅 2020-12-04: streaming torrent engine used by peerflix
 * [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) ⭐ 1,942 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-28: BitTorrent tracker for client and server
 * [nile.js](https://github.com/gitsummore/nile.js) ⚠️ Archived: Scalable peer to peer live video streaming built on torrents and webRTC
@@ -21,7 +21,7 @@
 * [serverless-webrtc](https://github.com/cjb/serverless-webrtc) ⭐ 1,566 | 🐛 17 | 🌐 JavaScript | 📅 2021-09-03: serverless WebRTC
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,410 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29: Mount a torrent or magnet link as a filesystem
 * [webtorrent-cli](https://github.com/feross/webtorrent-cli) ⭐ 1,388 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-28: WebTorrent, the streaming torrent client. For the command line.
-* [scuttlebutt](https://github.com/dominictarr/scuttlebutt) ⭐ 1,317 | 🐛 19 | 🌐 JavaScript | 📅 2017-04-12: real-time replication
+* [scuttlebutt](https://github.com/dominictarr/scuttlebutt) ⭐ 1,316 | 🐛 19 | 🌐 JavaScript | 📅 2017-04-12: real-time replication
 * [bittorrent-dht](https://github.com/feross/bittorrent-dht) ⭐ 1,281 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-13: BitTorrent DHT implementation
 * [secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt) ⭐ 1,167 | 🐛 14 | 🌐 JavaScript | 📅 2024-07-13: secure database with replication
 * [socket.io-p2p](https://github.com/socketio/socket.io-p2p) ⭐ 1,035 | 🐛 46 | 🌐 JavaScript | 📅 2020-10-03: signalling server and client library
@@ -31,7 +31,7 @@
 * [airpaste](https://github.com/mafintosh/airpaste) ⭐ 826 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18: Network pipe that auto-discovers other peers using mdns
 * [signalhub](https://github.com/mafintosh/signalhub) ⭐ 672 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-19: simple signalling server
 * [rtc-everywhere](https://github.com/contra/rtc-everywhere) ⭐ 653 | 🐛 6 | 🌐 JavaScript | 📅 2018-04-09: cross-everything WebRTC mega-project
-* [torrent](https://github.com/maxogden/torrent) ⭐ 631 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-04: download torrents with NodeJS from the CLI
+* [torrent](https://github.com/maxogden/torrent) ⭐ 632 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-04: download torrents with NodeJS from the CLI
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) ⭐ 531 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-14: multicast-dns in JS
 * [hyperlog](https://github.com/mafintosh/hyperlog) ⭐ 468 | 🐛 11 | 🌐 JavaScript | 📅 2017-01-24: Merkle DAG that replicates based on scuttlebutt logs and causal linking
 * [parse-torrent](https://github.com/feross/parse-torrent) ⭐ 465 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-13: parse a torrent identifier
@@ -57,7 +57,7 @@
 * [torrent-discovery](https://github.com/feross/torrent-discovery) ⭐ 227 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-13: Discover BitTorrent and WebTorrent peers
 * [dht-rpc](https://github.com/mafintosh/dht-rpc) ⭐ 215 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-28: Make RPC calls over a Kademlia based DHT.
 * [peerweb.js](https://github.com/retrohacker/peerweb.js) ⭐ 197 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-05: A client side library for fetching and rendering a static website from a torrent
-* [node-torrent](https://github.com/fent/node-torrent) ⭐ 196 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-15: torrent reader, write, and hash checker
+* [node-torrent](https://github.com/fent/node-torrent) ⭐ 196 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-15: torrent reader, write, and hash checker
 * [dns-discovery](https://github.com/mafintosh/dns-discovery) ⭐ 194 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-14: Discovery peers in a distributed system using regular dns and multicast dns.
 * [rtc-quickconnect](https://github.com/rtc-io/rtc-quickconnect) ⭐ 184 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-04: high-level wrapper for creating WebRTC apps
 * [peer-network](https://github.com/mafintosh/peer-network) ⭐ 183 | 🐛 2 | 🌐 JavaScript | 📅 2017-04-22: Create servers/clients that listen on names instead of ports and hostnames and are accessible over the internet
@@ -185,13 +185,13 @@
 
 ## Libraries
 
-* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,055 | 🐛 8 | 📅 2025-05-01: distributed file system
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,564 | 🐛 311 | 🌐 C | 📅 2026-11-13: next evolution of the rfc5766-turn-server project
+* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,053 | 🐛 8 | 📅 2025-05-01: distributed file system
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,565 | 🐛 311 | 🌐 C | 📅 2026-11-16: next evolution of the rfc5766-turn-server project
 * [peerjs](https://github.com/peers/peerjs) ⭐ 13,519 | 🐛 206 | 🌐 TypeScript | 📅 2026-02-27: simple peer-to-peer with WebRTC
 * [dat](https://github.com/datproject/dat) ⭐ 8,219 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07: Sync data across the distributed web
 * [SimpleWebRTC](https://github.com/andyet/SimpleWebRTC) ⭐ 4,680 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14: browser JS library
 * [btfs](https://github.com/johang/btfs) ⭐ 3,976 | 🐛 17 | 🌐 C++ | 📅 2026-09-13: bittorrent filesystem based on FUSE (C++)
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,786 | 🐛 158 | 🌐 C++ | 📅 2026-11-03: WebRTC DataChannels standalone implementation (C++)
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,786 | 🐛 159 | 🌐 C++ | 📅 2026-11-03: WebRTC DataChannels standalone implementation (C++)
 * [signalmaster](https://github.com/andyet/signalmaster) ⭐ 1,298 | 🐛 55 | 🌐 JavaScript | 📅 2020-11-16: signaling server for [SimpleWebRTC](https://github.com/HenrikJoreteg/SimpleWebRTC) ⭐ 4,680 | 🐛 208 | 🌐 JavaScript | 📅 2022-08-14
 * [ipfs specs](https://github.com/ipfs/specs) ⭐ 1,245 | 🐛 91 | 🌐 HTML | 📅 2026-09-26: specs for IPFS
 * [planktos](https://github.com/xuset/planktos) ⭐ 536 | 🐛 35 | 🌐 JavaScript | 📅 2020-05-10: Serving websites over bittorrent
@@ -206,7 +206,7 @@
 
 ## Apps
 
-* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,150 | 🐛 80 | 🌐 JavaScript | 📅 2026-11-13: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
+* [webtorrent-app](https://github.com/feross/webtorrent-app) ⭐ 10,150 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-13: WebTorrent, the streaming torrent client. For OS X, Windows, and Linux.
 * [beaker](https://github.com/pfraze/beaker) ⚠️ Archived: Decentralization tech in a browser built with electron.
 * [patchwork](https://github.com/ssbc/patchwork) ⚠️ Archived: p2p secure messaging
 * [friends](https://github.com/moose-team/friends) ⚠️ Archived: P2P chat
@@ -225,7 +225,7 @@
 
 ## Experiments
 
-* [GitTorrent](https://github.com/cjb/GitTorrent) ⭐ 4,758 | 🐛 48 | 🌐 JavaScript | 📅 2020-07-29: A decentralization of Github using BitTorrent and Bitcoin
+* [GitTorrent](https://github.com/cjb/GitTorrent) ⭐ 4,757 | 🐛 48 | 🌐 JavaScript | 📅 2020-07-29: A decentralization of Github using BitTorrent and Bitcoin
 * [webrtc-ips](https://github.com/diafygi/webrtc-ips) ⭐ 3,457 | 🐛 30 | 🌐 HTML | 📅 2023-12-27: Stun IP address requests for WebRTC
 * [web2web](https://github.com/elendirx/web2web) ⭐ 2,240 | 🐛 3 | 🌐 HTML | 📅 2023-10-10: P2P web powered by torrents and blockchain.
 * [torrent-log](https://github.com/substack/torrent-log): message feed over bittorrent
@@ -292,4 +292,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
