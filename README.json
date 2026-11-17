@@ -19,7 +19,7 @@
             "open_issues": 93,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31477,
+            "stars": 31476,
             "topics": [
               "bittorrent",
               "browser",
@@ -269,8 +269,8 @@
             "id": 18131537,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T04:01:51Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-17T06:14:32Z",
+            "open_issues": 18,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1942,
@@ -428,11 +428,11 @@
             "id": 53643073,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T04:02:28Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-17T06:14:31Z",
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "bittorrent",
               "cli",
@@ -479,8 +479,8 @@
             "id": 14274230,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:04:19Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-17T06:14:29Z",
+            "open_issues": 26,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
             "stars": 1281,
@@ -747,11 +747,11 @@
             "id": 17127972,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:06:33Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-17T06:11:28Z",
+            "open_issues": 19,
             "owner": "webtorrent",
             "repo": "parse-torrent",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "bittorrent",
               "browser",
@@ -861,11 +861,11 @@
             "id": 14274070,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:08:43Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-17T06:14:17Z",
+            "open_issues": 10,
             "owner": "webtorrent",
             "repo": "bittorrent-protocol",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "bittorrent",
               "browser",
@@ -891,8 +891,8 @@
             "id": 20014609,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:07:02Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-17T06:14:17Z",
+            "open_issues": 11,
             "owner": "webtorrent",
             "repo": "create-torrent",
             "stars": 357,
@@ -954,7 +954,7 @@
             "open_issues": 2,
             "owner": "mafintosh",
             "repo": "torrent-docker",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1147,11 +1147,11 @@
             "id": 13917211,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:06:47Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-17T06:13:44Z",
+            "open_issues": 9,
             "owner": "webtorrent",
             "repo": "magnet-uri",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "bittorrent",
               "browser",
@@ -1221,11 +1221,11 @@
             "id": 23037077,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:07:42Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-17T06:11:18Z",
+            "open_issues": 8,
             "owner": "webtorrent",
             "repo": "torrent-discovery",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1266,6 +1266,31 @@
         },
         {
           "node_type": "item",
+          "title": "node-torrent",
+          "description": "torrent reader, write, and hash checker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Torrent reader, writer, and hash checker for node.",
+            "homepage": null,
+            "id": 2192549,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-15T20:17:42Z",
+            "open_issues": 2,
+            "owner": "fent",
+            "repo": "node-torrent",
+            "stars": 197,
+            "topics": [
+              "hashcheck",
+              "node",
+              "torrent"
+            ]
+          },
+          "first_seen": "2026-08-28T20:11:18.138Z"
+        },
+        {
+          "node_type": "item",
           "title": "peerweb.js",
           "description": "A client side library for fetching and rendering a static website from a torrent",
           "children": [],
@@ -1282,31 +1307,6 @@
             "repo": "peerweb.js",
             "stars": 197,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:11:18.138Z"
-        },
-        {
-          "node_type": "item",
-          "title": "node-torrent",
-          "description": "torrent reader, write, and hash checker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Torrent reader, writer, and hash checker for node.",
-            "homepage": null,
-            "id": 2192549,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-15T20:17:42Z",
-            "open_issues": 2,
-            "owner": "fent",
-            "repo": "node-torrent",
-            "stars": 196,
-            "topics": [
-              "hashcheck",
-              "node",
-              "torrent"
-            ]
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
         },
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053,
+            "stars": 23052,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14565,
+            "stars": 14569,
             "topics": [
               "networking",
               "server",
@@ -3920,7 +3920,7 @@
             "open_issues": 0,
             "owner": "coturn",
             "repo": "rfc5766-turn-server",
-            "stars": 527,
+            "stars": 528,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4089,7 +4089,7 @@
             "id": 35015575,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:09:00Z",
+            "last_commit": "2026-11-16T21:02:51Z",
             "open_issues": 81,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
@@ -4158,7 +4158,7 @@
             "open_issues": 0,
             "owner": "ssbc",
             "repo": "patchwork",
-            "stars": 3566,
+            "stars": 3567,
             "topics": [
               "decentralized",
               "decentralized-messaging",
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3457,
+            "stars": 3458,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4030,
+            "stars": 4029,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T18:27:55.335Z",
+    "last_updated": "2026-11-17T17:35:37.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
