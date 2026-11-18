@@ -19,7 +19,7 @@
             "open_issues": 93,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31476,
+            "stars": 31479,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7796,
+            "stars": 7795,
             "topics": [
               "browser",
               "data-channels",
@@ -80,7 +80,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6269,
+            "stars": 6270,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -231,7 +231,7 @@
             "open_issues": 28,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2032,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -390,7 +390,7 @@
             "open_issues": 17,
             "owner": "cjb",
             "repo": "serverless-webrtc",
-            "stars": 1566,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -688,7 +688,7 @@
             "open_issues": 17,
             "owner": "max-mapper",
             "repo": "torrent",
-            "stars": 632,
+            "stars": 631,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3672,7 +3672,7 @@
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14569,
+            "stars": 14575,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13519,
+            "stars": 13520,
             "topics": [
               "browser",
               "dataconnection",
@@ -3726,7 +3726,7 @@
             "open_issues": 106,
             "owner": "dat-ecosystem",
             "repo": "dat",
-            "stars": 8219,
+            "stars": 8217,
             "topics": [
               "command-line",
               "dat",
@@ -3803,10 +3803,10 @@
             "language": "C++",
             "license": "MPL-2.0",
             "last_commit": "2026-11-03T10:43:50Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2786,
+            "stars": 2787,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3845,7 +3845,7 @@
             "open_issues": 55,
             "owner": "simplewebrtc",
             "repo": "signalmaster",
-            "stars": 1298,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4090,7 +4090,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-16T21:02:51Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
             "stars": 10150,
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6733,
+            "stars": 6732,
             "topics": [
               "beaker",
               "browser",
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4029,
+            "stars": 4030,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:35:37.996Z",
+    "last_updated": "2026-11-18T17:12:36.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 23,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2563,
+      "stars": 2566,
       "topics": [
         "awesome",
         "p2p",
