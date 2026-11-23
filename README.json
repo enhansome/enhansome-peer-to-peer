@@ -19,7 +19,7 @@
             "open_issues": 94,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31479,
+            "stars": 31482,
             "topics": [
               "bittorrent",
               "browser",
@@ -231,7 +231,7 @@
             "open_issues": 28,
             "owner": "holepunchto",
             "repo": "hyperdrive",
-            "stars": 2032,
+            "stars": 2033,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3641,7 +3641,7 @@
             "open_issues": 8,
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23051,
+            "stars": 23054,
             "topics": [
               "ipfs",
               "ipfs-protocol",
@@ -3672,7 +3672,7 @@
             "open_issues": 311,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14584,
+            "stars": 14586,
             "topics": [
               "networking",
               "server",
@@ -3802,8 +3802,8 @@
             "id": 199076632,
             "language": "C++",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-21T01:29:40Z",
-            "open_issues": 157,
+            "last_commit": "2026-11-22T22:43:46Z",
+            "open_issues": 159,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
             "stars": 2792,
@@ -4093,7 +4093,7 @@
             "open_issues": 82,
             "owner": "webtorrent",
             "repo": "webtorrent-desktop",
-            "stars": 10151,
+            "stars": 10152,
             "topics": [
               "bittorrent",
               "electron",
@@ -4382,7 +4382,7 @@
             "open_issues": 0,
             "owner": "RobinLinus",
             "repo": "snapdrop",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-09-14T14:59:41.252Z"
@@ -4430,7 +4430,7 @@
             "open_issues": 30,
             "owner": "diafygi",
             "repo": "webrtc-ips",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:13:23.501Z",
+    "last_updated": "2026-11-23T20:07:55.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2566,
+      "stars": 2567,
       "topics": [
         "awesome",
         "p2p",
