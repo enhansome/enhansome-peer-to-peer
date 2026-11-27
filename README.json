@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31483,
+            "stars": 31484,
             "topics": [
               "bittorrent",
               "browser",
@@ -252,7 +252,7 @@
             "open_issues": 90,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1972,
+            "stars": 1971,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -270,7 +270,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-20T20:04:22Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1941,
@@ -390,7 +390,7 @@
             "open_issues": 17,
             "owner": "cjb",
             "repo": "serverless-webrtc",
-            "stars": 1563,
+            "stars": 1564,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1496,7 +1496,7 @@
             "open_issues": 1,
             "owner": "mafintosh",
             "repo": "airswarm",
-            "stars": 129,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -1988,7 +1988,7 @@
             "open_issues": 2,
             "owner": "mafintosh",
             "repo": "hyperirc",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T19:46:19Z",
+            "last_commit": "2026-11-26T19:42:18Z",
             "open_issues": 313,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14599,
+            "stars": 14600,
             "topics": [
               "networking",
               "server",
@@ -3697,7 +3697,7 @@
             "open_issues": 206,
             "owner": "peers",
             "repo": "peerjs",
-            "stars": 13524,
+            "stars": 13525,
             "topics": [
               "browser",
               "dataconnection",
@@ -3806,7 +3806,7 @@
             "open_issues": 166,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2793,
+            "stars": 2795,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -3866,7 +3866,7 @@
             "open_issues": 92,
             "owner": "ipfs",
             "repo": "specs",
-            "stars": 1245,
+            "stars": 1244,
             "topics": [
               "ipfs",
               "p2p",
@@ -4127,7 +4127,7 @@
             "open_issues": 218,
             "owner": "beakerbrowser",
             "repo": "beaker",
-            "stars": 6732,
+            "stars": 6731,
             "topics": [
               "beaker",
               "browser",
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4029,
+            "stars": 4028,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:23:23.127Z",
+    "last_updated": "2026-11-27T18:09:08.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
