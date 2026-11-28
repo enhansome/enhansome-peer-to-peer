@@ -129,7 +129,7 @@
             "open_issues": 80,
             "owner": "butterproject",
             "repo": "butter-desktop",
-            "stars": 4252,
+            "stars": 4253,
             "topics": [
               "streaming",
               "torrents",
@@ -432,7 +432,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "webtorrent-cli",
-            "stars": 1391,
+            "stars": 1392,
             "topics": [
               "bittorrent",
               "cli",
@@ -709,7 +709,7 @@
             "open_issues": 20,
             "owner": "mafintosh",
             "repo": "multicast-dns",
-            "stars": 530,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -3668,11 +3668,11 @@
             "id": 39242894,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T19:42:18Z",
-            "open_issues": 313,
+            "last_commit": "2026-11-27T23:22:31Z",
+            "open_issues": 314,
             "owner": "coturn",
             "repo": "coturn",
-            "stars": 14600,
+            "stars": 14602,
             "topics": [
               "networking",
               "server",
@@ -3806,7 +3806,7 @@
             "open_issues": 166,
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2795,
+            "stars": 2797,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -4451,7 +4451,7 @@
             "open_issues": 3,
             "owner": "elendirx",
             "repo": "web2web",
-            "stars": 2237,
+            "stars": 2236,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:18.138Z"
@@ -4595,7 +4595,7 @@
             "open_issues": 170,
             "owner": "bigchaindb",
             "repo": "bigchaindb",
-            "stars": 4028,
+            "stars": 4027,
             "topics": [
               "bft",
               "bigchaindb",
@@ -4635,7 +4635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:09:08.050Z",
+    "last_updated": "2026-11-28T16:49:44.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of peer-to-peer resources.",
@@ -4647,7 +4647,7 @@
       "open_issues": 21,
       "owner": "kgryte",
       "repo": "awesome-peer-to-peer",
-      "stars": 2570,
+      "stars": 2571,
       "topics": [
         "awesome",
         "p2p",
